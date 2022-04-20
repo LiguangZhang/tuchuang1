@@ -1,0 +1,110 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [  <!ENTITY quot "&#34;">  <!ENTITY amp "&#38;">  <!ENTITY apos "&#39;">  <!ENTITY lt "&#60;">  <!ENTITY gt "&#62;">  <!ENTITY nbsp "&#160;">  <!ENTITY iexcl "&#161;">  <!ENTITY cent "&#162;">  <!ENTITY pound "&#163;">  <!ENTITY curren "&#164;">  <!ENTITY yen "&#165;">  <!ENTITY brvbar "&#166;">  <!ENTITY sect "&#167;">  <!ENTITY uml "&#168;">  <!ENTITY copy "&#169;">  <!ENTITY ordf "&#170;">  <!ENTITY laquo "&#171;">  <!ENTITY not "&#172;">  <!ENTITY shy "&#173;">  <!ENTITY reg "&#174;">  <!ENTITY macr "&#175;">  <!ENTITY deg "&#176;">  <!ENTITY plusmn "&#177;">  <!ENTITY sup2 "&#178;">  <!ENTITY sup3 "&#179;">  <!ENTITY acute "&#180;">  <!ENTITY micro "&#181;">  <!ENTITY para "&#182;">  <!ENTITY middot "&#183;">  <!ENTITY cedil "&#184;">  <!ENTITY sup1 "&#185;">  <!ENTITY ordm "&#186;">  <!ENTITY raquo "&#187;">  <!ENTITY frac14 "&#188;">  <!ENTITY frac12 "&#189;">  <!ENTITY frac34 "&#190;">  <!ENTITY iquest "&#191;">  <!ENTITY Agrave "&#192;">  <!ENTITY Aacute "&#193;">  <!ENTITY Acirc "&#194;">  <!ENTITY Atilde "&#195;">  <!ENTITY Auml "&#196;">  <!ENTITY Aring "&#197;">  <!ENTITY AElig "&#198;">  <!ENTITY Ccedil "&#199;">  <!ENTITY Egrave "&#200;">  <!ENTITY Eacute "&#201;">  <!ENTITY Ecirc "&#202;">  <!ENTITY Euml "&#203;">  <!ENTITY Igrave "&#204;">  <!ENTITY Iacute "&#205;">  <!ENTITY Icirc "&#206;">  <!ENTITY Iuml "&#207;">  <!ENTITY ETH "&#208;">  <!ENTITY Ntilde "&#209;">  <!ENTITY Ograve "&#210;">  <!ENTITY Oacute "&#211;">  <!ENTITY Ocirc "&#212;">  <!ENTITY Otilde "&#213;">  <!ENTITY Ouml "&#214;">  <!ENTITY times "&#215;">  <!ENTITY Oslash "&#216;">  <!ENTITY Ugrave "&#217;">  <!ENTITY Uacute "&#218;">  <!ENTITY Ucirc "&#219;">  <!ENTITY Uuml "&#220;">  <!ENTITY Yacute "&#221;">  <!ENTITY THORN "&#222;">  <!ENTITY szlig "&#223;">  <!ENTITY agrave "&#224;">  <!ENTITY aacute "&#225;">  <!ENTITY acirc "&#226;">  <!ENTITY atilde "&#227;">  <!ENTITY auml "&#228;">  <!ENTITY aring "&#229;">  <!ENTITY aelig "&#230;">  <!ENTITY ccedil "&#231;">  <!ENTITY egrave "&#232;">  <!ENTITY eacute "&#233;">  <!ENTITY ecirc "&#234;">  <!ENTITY euml "&#235;">  <!ENTITY igrave "&#236;">  <!ENTITY iacute "&#237;">  <!ENTITY icirc "&#238;">  <!ENTITY iuml "&#239;">  <!ENTITY eth "&#240;">  <!ENTITY ntilde "&#241;">  <!ENTITY ograve "&#242;">  <!ENTITY oacute "&#243;">  <!ENTITY ocirc "&#244;">  <!ENTITY otilde "&#245;">  <!ENTITY ouml "&#246;">  <!ENTITY divide "&#247;">  <!ENTITY oslash "&#248;">  <!ENTITY ugrave "&#249;">  <!ENTITY uacute "&#250;">  <!ENTITY ucirc "&#251;">  <!ENTITY uuml "&#252;">  <!ENTITY yacute "&#253;">  <!ENTITY thorn "&#254;">  <!ENTITY yuml "&#255;">  <!ENTITY OElig "&#338;">  <!ENTITY oelig "&#339;">  <!ENTITY Scaron "&#352;">  <!ENTITY scaron "&#353;">  <!ENTITY Yuml "&#376;">  <!ENTITY fnof "&#402;">  <!ENTITY circ "&#710;">  <!ENTITY tilde "&#732;">  <!ENTITY Alpha "&#913;">  <!ENTITY Beta "&#914;">  <!ENTITY Gamma "&#915;">  <!ENTITY Delta "&#916;">  <!ENTITY Epsilon "&#917;">  <!ENTITY Zeta "&#918;">  <!ENTITY Eta "&#919;">  <!ENTITY Theta "&#920;">  <!ENTITY Iota "&#921;">  <!ENTITY Kappa "&#922;">  <!ENTITY Lambda "&#923;">  <!ENTITY Mu "&#924;">  <!ENTITY Nu "&#925;">  <!ENTITY Xi "&#926;">  <!ENTITY Omicron "&#927;">  <!ENTITY Pi "&#928;">  <!ENTITY Rho "&#929;">  <!ENTITY Sigma "&#931;">  <!ENTITY Tau "&#932;">  <!ENTITY Upsilon "&#933;">  <!ENTITY Phi "&#934;">  <!ENTITY Chi "&#935;">  <!ENTITY Psi "&#936;">  <!ENTITY Omega "&#937;">  <!ENTITY alpha "&#945;">  <!ENTITY beta "&#946;">  <!ENTITY gamma "&#947;">  <!ENTITY delta "&#948;">  <!ENTITY epsilon "&#949;">  <!ENTITY zeta "&#950;">  <!ENTITY eta "&#951;">  <!ENTITY theta "&#952;">  <!ENTITY iota "&#953;">  <!ENTITY kappa "&#954;">  <!ENTITY lambda "&#955;">  <!ENTITY mu "&#956;">  <!ENTITY nu "&#957;">  <!ENTITY xi "&#958;">  <!ENTITY omicron "&#959;">  <!ENTITY pi "&#960;">  <!ENTITY rho "&#961;">  <!ENTITY sigmaf "&#962;">  <!ENTITY sigma "&#963;">  <!ENTITY tau "&#964;">  <!ENTITY upsilon "&#965;">  <!ENTITY phi "&#966;">  <!ENTITY chi "&#967;">  <!ENTITY psi "&#968;">  <!ENTITY omega "&#969;">  <!ENTITY thetasym "&#977;">  <!ENTITY upsih "&#978;">  <!ENTITY piv "&#982;">  <!ENTITY ensp "&#8194;">  <!ENTITY emsp "&#8195;">  <!ENTITY thinsp "&#8201;">  <!ENTITY zwnj "&#8204;">  <!ENTITY zwj "&#8205;">  <!ENTITY lrm "&#8206;">  <!ENTITY rlm "&#8207;">  <!ENTITY ndash "&#8211;">  <!ENTITY mdash "&#8212;">  <!ENTITY lsquo "&#8216;">  <!ENTITY rsquo "&#8217;">  <!ENTITY sbquo "&#8218;">  <!ENTITY ldquo "&#8220;">  <!ENTITY rdquo "&#8221;">  <!ENTITY bdquo "&#8222;">  <!ENTITY dagger "&#8224;">  <!ENTITY Dagger "&#8225;">  <!ENTITY bull "&#8226;">  <!ENTITY hellip "&#8230;">  <!ENTITY permil "&#8240;">  <!ENTITY prime "&#8242;">  <!ENTITY Prime "&#8243;">  <!ENTITY lsaquo "&#8249;">  <!ENTITY rsaquo "&#8250;">  <!ENTITY oline "&#8254;">  <!ENTITY frasl "&#8260;">  <!ENTITY euro "&#8364;">  <!ENTITY image "&#8465;">  <!ENTITY weierp "&#8472;">  <!ENTITY real "&#8476;">  <!ENTITY trade "&#8482;">  <!ENTITY alefsym "&#8501;">  <!ENTITY larr "&#8592;">  <!ENTITY uarr "&#8593;">  <!ENTITY rarr "&#8594;">  <!ENTITY darr "&#8595;">  <!ENTITY harr "&#8596;">  <!ENTITY crarr "&#8629;">  <!ENTITY lArr "&#8656;">  <!ENTITY uArr "&#8657;">  <!ENTITY rArr "&#8658;">  <!ENTITY dArr "&#8659;">  <!ENTITY hArr "&#8660;">  <!ENTITY forall "&#8704;">  <!ENTITY part "&#8706;">  <!ENTITY exist "&#8707;">  <!ENTITY empty "&#8709;">  <!ENTITY nabla "&#8711;">  <!ENTITY isin "&#8712;">  <!ENTITY notin "&#8713;">  <!ENTITY ni "&#8715;">  <!ENTITY prod "&#8719;">  <!ENTITY sum "&#8721;">  <!ENTITY minus "&#8722;">  <!ENTITY lowast "&#8727;">  <!ENTITY radic "&#8730;">  <!ENTITY prop "&#8733;">  <!ENTITY infin "&#8734;">  <!ENTITY ang "&#8736;">  <!ENTITY and "&#8743;">  <!ENTITY or "&#8744;">  <!ENTITY cap "&#8745;">  <!ENTITY cup "&#8746;">  <!ENTITY int "&#8747;">  <!ENTITY there4 "&#8756;">  <!ENTITY sim "&#8764;">  <!ENTITY cong "&#8773;">  <!ENTITY asymp "&#8776;">  <!ENTITY ne "&#8800;">  <!ENTITY equiv "&#8801;">  <!ENTITY le "&#8804;">  <!ENTITY ge "&#8805;">  <!ENTITY sub "&#8834;">  <!ENTITY sup "&#8835;">  <!ENTITY nsub "&#8836;">  <!ENTITY sube "&#8838;">  <!ENTITY supe "&#8839;">  <!ENTITY oplus "&#8853;">  <!ENTITY otimes "&#8855;">  <!ENTITY perp "&#8869;">  <!ENTITY sdot "&#8901;">  <!ENTITY lceil "&#8968;">  <!ENTITY rceil "&#8969;">  <!ENTITY lfloor "&#8970;">  <!ENTITY rfloor "&#8971;">  <!ENTITY lang "&#9001;">  <!ENTITY rang "&#9002;">  <!ENTITY loz "&#9674;">  <!ENTITY spades "&#9824;">  <!ENTITY clubs "&#9827;">  <!ENTITY hearts "&#9829;">  <!ENTITY diams "&#9830;"> ]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="710pt" height="424pt" viewBox="0.00 0.00 710.25 424.40">
+<g id="graph0" class="graph" transform="translate(4,420.3999938964844) scale(1)" data-name="G">
+
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-420.4 706.2548,-420.4 706.2548,4 -4,4" style=""></polygon>
+<!-- ext4_dir_entry_2 -->
+<g id="node1" class="node" data-name="ext4_dir_entry_2">
+
+<polygon fill="none" stroke="#000000" points="348.6866,-.5 348.6866,-149.3 524.4616,-149.3 524.4616,-.5 348.6866,-.5" style=""></polygon>
+<text text-anchor="middle" x="436.5741" y="-132.7" font-family="Times,serif" font-size="14.00" fill="#000000" style="">ext4_dir_entry_2</text>
+<polyline fill="none" stroke="#000000" points="348.6866,-124.5 524.4616,-124.5 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-107.9" font-family="Times,serif" font-size="14.00" fill="#000000" style="">=======</text>
+<polyline fill="none" stroke="#000000" points="348.6866,-99.7 524.4616,-99.7 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-83.1" font-family="Times,serif" font-size="14.00" fill="#000000" style="">inode number</text>
+<polyline fill="none" stroke="#000000" points="348.6866,-74.9 524.4616,-74.9 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-58.3" font-family="Times,serif" font-size="14.00" fill="#000000" style="">name_len</text>
+<polyline fill="none" stroke="#000000" points="348.6866,-50.1 524.4616,-50.1 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-33.5" font-family="Times,serif" font-size="14.00" fill="#000000" style="">name [EXT4_NAME_LEN]</text>
+<polyline fill="none" stroke="#000000" points="348.6866,-25.3 524.4616,-25.3 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-8.7" font-family="Times,serif" font-size="14.00" fill="#000000" style="">file_type</text>
+</g>
+<!-- ext4_filename -->
+<g id="node2" class="node" data-name="ext4_filename">
+
+<polygon fill="none" stroke="#000000" points="561.4616,-194.5 561.4616,-343.3 702.2548,-343.3 702.2548,-194.5 561.4616,-194.5" style=""></polygon>
+<text text-anchor="middle" x="631.8582" y="-326.7" font-family="Times,serif" font-size="14.00" fill="#000000" style="">ext4_filename</text>
+<polyline fill="none" stroke="#000000" points="561.4616,-318.5 702.2548,-318.5 " style=""></polyline>
+<text text-anchor="middle" x="631.8582" y="-301.9" font-family="Times,serif" font-size="14.00" fill="#000000" style="">=======</text>
+<polyline fill="none" stroke="#000000" points="561.4616,-293.7 702.2548,-293.7 " style=""></polyline>
+<text text-anchor="middle" x="631.8582" y="-277.1" font-family="Times,serif" font-size="14.00" fill="#000000" style="">qstr *usr_fname</text>
+<polyline fill="none" stroke="#000000" points="561.4616,-268.9 702.2548,-268.9 " style=""></polyline>
+<text text-anchor="middle" x="631.8582" y="-252.3" font-family="Times,serif" font-size="14.00" fill="#000000" style="">fscrypt_str disk_name</text>
+<polyline fill="none" stroke="#000000" points="561.4616,-244.1 702.2548,-244.1 " style=""></polyline>
+<text text-anchor="middle" x="631.8582" y="-227.5" font-family="Times,serif" font-size="14.00" fill="#000000" style="">dx_hash_info hinfo</text>
+<polyline fill="none" stroke="#000000" points="561.4616,-219.3 702.2548,-219.3 " style=""></polyline>
+<text text-anchor="middle" x="631.8582" y="-202.7" font-family="Times,serif" font-size="14.00" fill="#000000" style="">fscrypt_str crypto_buf</text>
+</g>
+<!-- ext4_dir_entry_2&#45;&gt;ext4_filename -->
+<g id="edge3" class="edge" data-name="ext4_dir_entry_2:3->ext4_filename:2" data-comment="ext4_dir_entry_2->ext4_filename">
+
+<path fill="none" stroke="#0000ff" stroke-dasharray="1,5" d="M524.4616,-37.9C619.3467,-37.9 475.2279,-240.1248 551.4408,-255.9236" style=""></path>
+<polygon fill="#0000ff" stroke="#0000ff" points="551.5752,-259.4515 561.8582,-256.9 552.2285,-252.482 551.5752,-259.4515" style=""></polygon>
+<text text-anchor="middle" x="548.5591" y="-25.3" font-family="Times,serif" font-size="14.00" fill="#000000" style="">compare</text>
+</g>
+<!-- ext4_filename&#45;&gt;ext4_filename -->
+<g id="edge4" class="edge" data-name="ext4_filename:1->ext4_filename:2" data-comment="ext4_filename->ext4_filename">
+
+<path fill="none" stroke="#000000" stroke-dasharray="1,5" d="M561.2001,-286.2012C536.9772,-284.7723 517.4616,-279.523 517.4616,-268.9 517.4616,-259.8123 531.7436,-254.6573 551.0369,-252.4625" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="551.5324,-255.9331 561.2001,-251.5988 550.9397,-248.9582 551.5324,-255.9331" style=""></polygon>
+<text text-anchor="middle" x="496.4714" y="-264.7" font-family="Times,serif" font-size="14.00" fill="#000000" style="">encrypt</text>
+</g>
+<!-- buffer_head -->
+<g id="node3" class="node" data-name="buffer_head">
+
+<polygon fill="none" stroke="#000000" points="0,-25.1 0,-198.7 148.601,-198.7 148.601,-25.1 0,-25.1" style=""></polygon>
+<text text-anchor="middle" x="74.3005" y="-182.1" font-family="Times,serif" font-size="14.00" fill="#000000" style="">buffer_head</text>
+<polyline fill="none" stroke="#000000" points="0,-173.9 148.601,-173.9 " style=""></polyline>
+<text text-anchor="middle" x="74.3005" y="-157.3" font-family="Times,serif" font-size="14.00" fill="#000000" style="">=======</text>
+<polyline fill="none" stroke="#000000" points="0,-149.1 148.601,-149.1 " style=""></polyline>
+<text text-anchor="middle" x="74.3005" y="-132.5" font-family="Times,serif" font-size="14.00" fill="#000000" style="">char *b_data</text>
+<polyline fill="none" stroke="#000000" points="0,-124.3 148.601,-124.3 " style=""></polyline>
+<text text-anchor="middle" x="74.3005" y="-107.7" font-family="Times,serif" font-size="14.00" fill="#000000" style="">block_device *b_bdev</text>
+<polyline fill="none" stroke="#000000" points="0,-99.5 148.601,-99.5 " style=""></polyline>
+<text text-anchor="middle" x="74.3005" y="-82.9" font-family="Times,serif" font-size="14.00" fill="#000000" style="">bh_end_io_t *b_end_io</text>
+<polyline fill="none" stroke="#000000" points="0,-74.7 148.601,-74.7 " style=""></polyline>
+<text text-anchor="middle" x="74.3005" y="-58.1" font-family="Times,serif" font-size="14.00" fill="#000000" style="">b_count</text>
+<polyline fill="none" stroke="#000000" points="0,-49.9 148.601,-49.9 " style=""></polyline>
+<text text-anchor="middle" x="74.3005" y="-33.3" font-family="Times,serif" font-size="14.00" fill="#000000" style="">...</text>
+</g>
+<!-- buffer_head&#45;&gt;ext4_dir_entry_2 -->
+<g id="edge1" class="edge" data-name="buffer_head:1->ext4_dir_entry_2:0" data-comment="buffer_head->ext4_dir_entry_2">
+
+<path fill="none" stroke="#000000" d="M148.3005,-136.9C233.8821,-136.9 257.7847,-136.9 338.5476,-136.9" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="338.6866,-140.4001 348.6866,-136.9 338.6866,-133.4001 338.6866,-140.4001" style=""></polygon>
+<text text-anchor="middle" x="248.6438" y="-174.7" font-family="Times,serif" font-size="14.00" fill="#000000" style="">目录项的数据块,</text>
+<text text-anchor="middle" x="248.6438" y="-157.9" font-family="Times,serif" font-size="14.00" fill="#000000" style="">目录下的所有文件信息</text>
+<text text-anchor="middle" x="248.6438" y="-141.1" font-family="Times,serif" font-size="14.00" fill="#000000" style="">都封装在里面, 参考上图</text>
+</g>
+<!-- dentry -->
+<g id="node4" class="node" data-name="dentry">
+
+<polygon fill="none" stroke="#000000" points="401.3539,-167.9 401.3539,-415.9 471.7943,-415.9 471.7943,-167.9 401.3539,-167.9" style=""></polygon>
+<text text-anchor="middle" x="436.5741" y="-399.3" font-family="Times,serif" font-size="14.00" fill="#000000" style="">dentry</text>
+<polyline fill="none" stroke="#000000" points="401.3539,-391.1 471.7943,-391.1 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-374.5" font-family="Times,serif" font-size="14.00" fill="#000000" style="">======</text>
+<polyline fill="none" stroke="#000000" points="401.3539,-366.3 471.7943,-366.3 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-349.7" font-family="Times,serif" font-size="14.00" fill="#000000" style="">d_name</text>
+<polyline fill="none" stroke="#000000" points="401.3539,-341.5 471.7943,-341.5 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-324.9" font-family="Times,serif" font-size="14.00" fill="#000000" style="">d_inode</text>
+<polyline fill="none" stroke="#000000" points="401.3539,-316.7 471.7943,-316.7 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-300.1" font-family="Times,serif" font-size="14.00" fill="#000000" style="">d_sb</text>
+<polyline fill="none" stroke="#000000" points="401.3539,-291.9 471.7943,-291.9 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-275.3" font-family="Times,serif" font-size="14.00" fill="#000000" style="">d_op</text>
+<polyline fill="none" stroke="#000000" points="401.3539,-267.1 471.7943,-267.1 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-250.5" font-family="Times,serif" font-size="14.00" fill="#000000" style="">d_parent</text>
+<polyline fill="none" stroke="#000000" points="401.3539,-242.3 471.7943,-242.3 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-225.7" font-family="Times,serif" font-size="14.00" fill="#000000" style="">d_child</text>
+<polyline fill="none" stroke="#000000" points="401.3539,-217.5 471.7943,-217.5 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-200.9" font-family="Times,serif" font-size="14.00" fill="#000000" style="">d_subdirs</text>
+<polyline fill="none" stroke="#000000" points="401.3539,-192.7 471.7943,-192.7 " style=""></polyline>
+<text text-anchor="middle" x="436.5741" y="-176.1" font-family="Times,serif" font-size="14.00" fill="#000000" style="">...</text>
+</g>
+<!-- dentry&#45;&gt;ext4_filename -->
+<g id="edge2" class="edge" data-name="dentry:1->ext4_filename:1" data-comment="dentry->ext4_filename">
+
+<path fill="none" stroke="#000000" d="M471.5741,-353.9C519.5478,-353.9 511.7541,-290.8047 551.8855,-281.932" style=""></path>
+<polygon fill="#000000" stroke="#000000" points="552.2716,-285.4108 561.8582,-280.9 551.551,-278.448 552.2716,-285.4108" style=""></polygon>
+</g>
+</g>
+</svg>

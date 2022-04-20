@@ -1,0 +1,362 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="903px" height="527px" viewBox="-0.5 -0.5 903 527" content="&lt;mxfile host=&quot;cda4fd74-6dfc-4cb5-9e54-55e94fa0f3ce&quot; modified=&quot;2020-09-14T10:16:18.477Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.47.3 Chrome/78.0.3904.130 Electron/7.3.2 Safari/537.36&quot; etag=&quot;hE9G2NgSNoXbLeQOvKal&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-386-83-156-26-0">
+            <rect x="386" y="83" width="156" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-386-109-156-26-0">
+            <rect x="386" y="109" width="156" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-368-306-224-26-0">
+            <rect x="368" y="306" width="224" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-368-340-224-26-0">
+            <rect x="368" y="340" width="224" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-31-260-26-0">
+            <rect x="31" y="31" width="260" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-57-260-26-0">
+            <rect x="31" y="57" width="260" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-83-260-26-0">
+            <rect x="31" y="83" width="260" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-109-260-26-0">
+            <rect x="31" y="109" width="260" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-280-245-26-0">
+            <rect x="31" y="280" width="245" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-31-306-245-26-0">
+            <rect x="31" y="306" width="245" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-673-135-156-26-0">
+            <rect x="673" y="135" width="156" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-673-161-156-26-0">
+            <rect x="673" y="161" width="156" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-685-264-132-26-0">
+            <rect x="685" y="264" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-685-290-132-26-0">
+            <rect x="685" y="290" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-685-316-132-26-0">
+            <rect x="685" y="316" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-685-342-132-26-0">
+            <rect x="685" y="342" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-685-368-132-26-0">
+            <rect x="685" y="368" width="132" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 596 314 L 616 314.06 L 616 64.06 L 552.37 63.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 547.12 63.99 L 554.12 60.5 L 552.37 63.99 L 554.11 67.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 833 143 L 892.94 143 L 892.94 249.94 L 829.33 250" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 824.08 250 L 831.07 246.5 L 829.33 250 L 831.08 253.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 445 324 L 485 324" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 546 117 L 607.53 117 L 607.53 115.82 L 662.63 115.78" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 667.88 115.78 L 660.88 119.28 L 662.63 115.78 L 660.88 112.28 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 295 115 L 382 115 M 382 119 L 295 119 M 382 119" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="all"/>
+        <path d="M 280 288 L 359.72 288" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 364.97 288 L 357.97 291.5 L 359.72 288 L 357.97 284.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 382 78 L 382 52 L 546 52 L 546 78" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 382 78 L 382 163 L 546 163 L 546 78" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 382 78 L 546 78" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="463.5" y="69.5">
+                TransferBatch
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-386-83-156-26-0)" font-size="12px">
+            <text x="387.5" y="95.5">
+                u32 Count;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-386-109-156-26-0)" font-size="12px">
+            <text x="387.5" y="121.5">
+                void *Batch[MaxNumCached];
+            </text>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 162px; height: 1px; padding-top: 137px; margin-left: 384px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                <div style="color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-weight: normal ; font-size: 14px ; line-height: 19px">
+                                    <span style="color: rgb(229 , 192 , 123)">
+                                        TransferBatch
+                                    </span>
+                                    <span style="color: rgb(198 , 120 , 221)">
+                                        *
+                                    </span>
+                                    <span style="color: rgb(224 , 108 , 117)">
+                                        Next
+                                    </span>
+                                    ;
+                                    <br/>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="384" y="149" fill="#000000" font-family="Helvetica" font-size="12px">
+                    TransferBatch *Next;&#xa;
+                </text>
+            </switch>
+        </g>
+        <path d="M 364 301 L 364 275 L 596 275 L 596 301" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 364 301 L 364 525 L 596 525 L 596 301" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 364 301 L 596 301" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="479.5" y="292.5">
+                RegionInfo
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-368-306-224-26-0)" font-size="12px">
+            <text x="369.5" y="318.5">
+                SinglyLinkedList&lt;TransferBatch&gt; FreeList
+            </text>
+        </g>
+        <path d="M 364 331 L 596 331" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-368-340-224-26-0)" font-size="12px">
+            <text x="369.5" y="352.5">
+                RegionStats Stats;
+            </text>
+        </g>
+        <path d="M 364 365 L 596 365" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 230px; height: 1px; padding-top: 376px; margin-left: 366px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                <div style="color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-weight: normal ; font-size: 14px ; line-height: 19px">
+                                    <div style="line-height: 19px">
+                                        <span style="color: #c678dd">
+                                            bool
+                                        </span>
+                                        <span style="color: #e06c75">
+                                            CanRelease
+                                        </span>
+                                        ;
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="366" y="388" fill="#000000" font-family="Helvetica" font-size="12px">
+                    bool CanRelease;
+                </text>
+            </switch>
+        </g>
+        <path d="M 364 406 L 596 406" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 230px; height: 1px; padding-top: 417px; margin-left: 366px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                <div style="color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-weight: normal ; font-size: 14px ; line-height: 19px">
+                                    <div style="line-height: 19px">
+                                        <div style="line-height: 19px">
+                                            <span style="color: #e5c07b">
+                                                uptr
+                                            </span>
+                                            <span style="color: #e06c75">
+                                                RegionBeg
+                                            </span>
+                                            ;
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="366" y="429" fill="#000000" font-family="Helvetica" font-size="12px">
+                    uptr RegionBeg;
+                </text>
+            </switch>
+        </g>
+        <path d="M 364 447 L 596 447" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 230px; height: 1px; padding-top: 458px; margin-left: 366px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                <div style="color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-weight: normal ; font-size: 14px ; line-height: 19px">
+                                    <div style="line-height: 19px">
+                                        <div style="line-height: 19px">
+                                            <div style="line-height: 19px">
+                                                <span style="color: #e5c07b">
+                                                    uptr
+                                                </span>
+                                                <span style="color: #e06c75">
+                                                    MappedUser
+                                                </span>
+                                                ;
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="366" y="470" fill="#000000" font-family="Helvetica" font-size="12px">
+                    uptr MappedUser;
+                </text>
+            </switch>
+        </g>
+        <path d="M 364 488 L 596 488" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 230px; height: 1px; padding-top: 499px; margin-left: 366px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                <div style="color: rgb(171 , 178 , 191) ; background-color: rgb(40 , 44 , 52) ; font-weight: normal ; font-size: 14px ; line-height: 19px">
+                                    <div style="line-height: 19px">
+                                        <div style="line-height: 19px">
+                                            <div style="line-height: 19px">
+                                                <div style="line-height: 19px">
+                                                    <span style="color: #e5c07b">
+                                                        uptr
+                                                    </span>
+                                                    <span style="color: #e06c75">
+                                                        AllocatedUser
+                                                    </span>
+                                                    ;
+                                                    <span style="color: #7f848e ; font-style: italic">
+                                                    </span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="366" y="511" fill="#000000" font-family="Helvetica" font-size="12px">
+                    uptr AllocatedUser;
+                </text>
+            </switch>
+        </g>
+        <path d="M 27 26 L 27 0 L 295 0 L 295 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 26 L 27 130 L 295 130 L 295 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 26 L 295 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="160.5" y="17.5">
+                PerClass
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-31-260-26-0)" font-size="12px">
+            <text x="32.5" y="43.5">
+                u32 Count;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-57-260-26-0)" font-size="12px">
+            <text x="32.5" y="69.5">
+                u32 MaxCount;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-83-260-26-0)" font-size="12px">
+            <text x="32.5" y="95.5">
+                uptr ClassSize;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-109-260-26-0)" font-size="12px">
+            <text x="32.5" y="121.5">
+                void *Chunks[2 * TransferBatch::MaxNumCached];
+            </text>
+        </g>
+        <path d="M 27 307.5 L 7.06 307.47 L 7.06 189.47 L 161.06 189.47 L 161.06 136.37" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 161.06 131.12 L 164.56 138.12 L 161.06 136.37 L 157.56 138.12 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 275 L 27 249 L 280 249 L 280 275" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 275 L 27 327 L 280 327 L 280 275" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 27 275 L 280 275" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="12px">
+            <text x="153" y="266.5">
+                TSD
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-280-245-26-0)" font-size="12px">
+            <text x="32.5" y="292.5">
+                RegionInfo RegionInfoArray[NumClasses];
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-31-306-245-26-0)" font-size="12px">
+            <text x="32.5" y="318.5">
+                PerClass PerClassArray[NumClasses];
+            </text>
+        </g>
+        <path d="M 669 130 L 669 104 L 833 104 L 833 130" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 669 130 L 669 182 L 833 182 L 833 130" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 669 130 L 833 130" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="750.5" y="121.5">
+                Batch
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-673-135-156-26-0)" font-size="12px">
+            <text x="674.5" y="147.5">
+                ChunkHeader
+            </text>
+        </g>
+        <rect x="669" y="156" width="164" height="26" fill="#008a00" stroke="#005700" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-673-161-156-26-0)" font-size="12px">
+            <text x="674.5" y="173.5">
+                malloc area
+            </text>
+        </g>
+        <path d="M 681 259 L 681 233 L 821 233 L 821 259" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 681 259 L 681 389 L 821 389 L 821 259" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 681 259 L 821 259" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="750.5" y="250.5">
+                ChunkHeader
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-685-264-132-26-0)" font-size="12px">
+            <text x="686.5" y="276.5">
+                uptr ClassId
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-685-290-132-26-0)" font-size="12px">
+            <text x="686.5" y="302.5">
+                u8 State
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-685-316-132-26-0)" font-size="12px">
+            <text x="686.5" y="328.5">
+                u8 Origin
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-685-342-132-26-0)" font-size="12px">
+            <text x="686.5" y="354.5">
+                uptr SizeOrUnusedBytes
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-685-368-132-26-0)" font-size="12px">
+            <text x="686.5" y="380.5">
+                uptr Checksum
+            </text>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

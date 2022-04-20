@@ -1,0 +1,361 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1006px" height="653px" viewBox="-0.5 -0.5 1006 653" content="&lt;mxfile host=&quot;4bdae0a7-3954-4e5e-bfc8-88142982e903&quot; modified=&quot;2020-09-15T09:15:22.219Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.49.0 Chrome/83.0.4103.122 Electron/9.2.1 Safari/537.36&quot; etag=&quot;4ulmkYo832vNM8Vd0N37&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-99-126-255-26-0">
+            <rect x="99" y="126" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-99-152-255-26-0">
+            <rect x="99" y="152" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-99-186-255-26-0">
+            <rect x="99" y="186" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-99-212-255-26-0">
+            <rect x="99" y="212" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-99-238-255-26-0">
+            <rect x="99" y="238" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-99-264-255-26-0">
+            <rect x="99" y="264" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-99-290-255-26-0">
+            <rect x="99" y="290" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-99-316-255-26-0">
+            <rect x="99" y="316" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-590-325-255-26-0">
+            <rect x="590" y="325" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-590-351-255-26-0">
+            <rect x="590" y="351" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-590-385-255-26-0">
+            <rect x="590" y="385" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-590-411-255-28-0">
+            <rect x="590" y="411" width="255" height="28"/>
+        </clipPath>
+        <clipPath id="mx-clip-590-439-255-26-0">
+            <rect x="590" y="439" width="255" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-167-462-285-26-0">
+            <rect x="167" y="462" width="285" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-167-488-285-26-0">
+            <rect x="167" y="488" width="285" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-167-522-285-26-0">
+            <rect x="167" y="522" width="285" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-167-548-285-28-0">
+            <rect x="167" y="548" width="285" height="28"/>
+        </clipPath>
+        <clipPath id="mx-clip-167-576-285-26-0">
+            <rect x="167" y="576" width="285" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-167-602-285-26-0">
+            <rect x="167" y="602" width="285" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-167-628-285-26-0">
+            <rect x="167" y="628" width="285" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-405-117-224-26-0">
+            <rect x="405" y="117" width="224" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-405-143-224-26-0">
+            <rect x="405" y="143" width="224" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-405-169-224-26-0">
+            <rect x="405" y="169" width="224" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-99-31-255-26-0">
+            <rect x="99" y="31" width="255" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 95 121 L 95 95 L 358 95 L 358 121" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 95 121 L 95 337 L 358 337 L 358 121" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 95 121 L 358 121" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="226" y="112.5">
+                QuarantineCache
+            </text>
+        </g>
+        <rect x="95" y="121" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-99-126-255-26-0)" font-size="12px">
+            <text x="100.5" y="138.5">
+                atomic_uptr Size;
+            </text>
+        </g>
+        <rect x="95" y="147" width="263" height="26" fill="#6a00ff" stroke="#3700cc" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-99-152-255-26-0)" font-size="12px">
+            <text x="100.5" y="164.5">
+                SinglyLinkedList&lt;QuarantineBatch&gt; List;
+            </text>
+        </g>
+        <path d="M 95 177 L 358 177" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 95 194 L 75 194 L 75 134 L 88.63 134" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 93.88 134 L 86.88 137.5 L 88.63 134 L 86.88 130.5 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="95" y="181" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-99-186-255-26-0)" font-size="12px">
+            <text x="100.5" y="198.5">
+                uptr getSize()
+            </text>
+        </g>
+        <rect x="95" y="207" width="263" height="26" fill="#008a00" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-99-212-255-26-0)" font-size="12px">
+            <text x="100.5" y="224.5">
+                void enqueue(Callback Cb, *Ptr, uptr Size)
+            </text>
+        </g>
+        <rect x="95" y="233" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-99-238-255-26-0)" font-size="12px">
+            <text x="100.5" y="250.5">
+                enqueueBatch(QuarantineBatch *B)
+            </text>
+        </g>
+        <rect x="95" y="259" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-99-264-255-26-0)" font-size="12px">
+            <text x="100.5" y="276.5">
+                QuarantineBatch *dequeueBatch()
+            </text>
+        </g>
+        <rect x="95" y="285" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-99-290-255-26-0)" font-size="12px">
+            <text x="100.5" y="302.5">
+                mergeBatches(QuarantineCache *ToDeallocate)
+            </text>
+        </g>
+        <rect x="95" y="311" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-99-316-255-26-0)" font-size="12px">
+            <text x="100.5" y="328.5">
+                void getStats(ScopedString *Str)
+            </text>
+        </g>
+        <path d="M 358 160 L 379.5 160 L 379.5 100.5 L 392.78 100.5" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 398.03 100.5 L 391.03 104 L 392.78 100.5 L 391.03 97 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 633 112 L 633 112" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 633 112 L 633 112 L 633 112 L 633 112 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 844.14 123 L 824.1 123 L 838.1 123 L 824.51 123" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 819.26 123 L 826.26 119.5 L 824.51 123 L 826.26 126.5 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 586 420 L 517 420 L 517 237.37" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 517 232.12 L 520.5 239.12 L 517 237.37 L 513.5 239.12 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 586 320 L 586 294 L 849 294 L 849 320" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 586 320 L 586 460 L 849 460 L 849 320" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 586 320 L 849 320" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="717" y="311.5">
+                QuarantineCallback
+            </text>
+        </g>
+        <rect x="586" y="320" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-590-325-255-26-0)" font-size="12px">
+            <text x="591.5" y="337.5">
+                ThisT &amp;Allocator;
+            </text>
+        </g>
+        <rect x="586" y="346" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-590-351-255-26-0)" font-size="12px">
+            <text x="591.5" y="363.5">
+                CacheT &amp;Cache;
+            </text>
+        </g>
+        <path d="M 586 376 L 849 376" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="586" y="380" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-590-385-255-26-0)" font-size="12px">
+            <text x="591.5" y="397.5">
+                void recycle(void *Ptr)
+            </text>
+        </g>
+        <rect x="586" y="406" width="263" height="28" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-590-411-255-28-0)" font-size="12px">
+            <text x="591.5" y="423.5">
+                void *allocate(UNUSED uptr Size)
+            </text>
+        </g>
+        <rect x="586" y="434" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-590-439-255-26-0)" font-size="12px">
+            <text x="591.5" y="451.5">
+                void deallocate(void *Ptr)
+            </text>
+        </g>
+        <path d="M 658.14 123 L 638.1 123 L 638.1 123.4 L 639.36 123.4" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 634.11 123.39 L 641.12 119.91 L 639.36 123.4 L 641.11 126.91 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 163 457 L 163 431 L 456 431 L 456 457" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 163 457 L 163 649 L 456 649 L 456 457" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 163 457 L 456 457" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="309" y="448.5">
+                GlobalQuarantine
+            </text>
+        </g>
+        <rect x="163" y="457" width="293" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-167-462-285-26-0)" font-size="12px">
+            <text x="168.5" y="474.5">
+                ThisT &amp;Allocator;
+            </text>
+        </g>
+        <rect x="163" y="483" width="293" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-167-488-285-26-0)" font-size="12px">
+            <text x="168.5" y="500.5">
+                CacheT &amp;Cache;
+            </text>
+        </g>
+        <path d="M 163 513 L 456 513" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="163" y="517" width="293" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-167-522-285-26-0)" font-size="12px">
+            <text x="168.5" y="534.5">
+                drain(CacheT *C, Callback Cb)
+            </text>
+        </g>
+        <path d="M 163 557 L 143 557 L 143 610 L 156.63 610" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 161.88 610 L 154.88 613.5 L 156.63 610 L 154.88 606.5 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="163" y="543" width="293" height="28" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-167-548-285-28-0)" font-size="12px">
+            <text x="168.5" y="560.5">
+                drainAndRecycle(CacheT *C, Callback Cb)
+            </text>
+        </g>
+        <rect x="163" y="571" width="293" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-167-576-285-26-0)" font-size="12px">
+            <text x="168.5" y="588.5">
+                put(CacheT *C, Callback Cb, Node *Ptr, uptr Size)
+            </text>
+        </g>
+        <rect x="163" y="597" width="293" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-167-602-285-26-0)" font-size="12px">
+            <text x="168.5" y="614.5">
+                recycle(uptr MinSize, Callback Cb)
+            </text>
+        </g>
+        <rect x="163" y="623" width="293" height="26" fill="#60a917" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-167-628-285-26-0)" font-size="12px">
+            <text x="168.5" y="640.5">
+                doRecycle(CacheT *C, Callback Cb)
+            </text>
+        </g>
+        <path d="M 163 530 L 142.9 530 L 142.89 553.58" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 142.88 558.83 L 139.39 551.83 L 142.89 553.58 L 146.39 551.83 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 636 L 544 636 L 544 393 L 579.63 393" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 584.88 393 L 577.88 396.5 L 579.63 393 L 577.88 389.5 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 401 112 L 401 86 L 633 86 L 633 112" fill="#ffffff" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 401 112 L 401 231 L 633 231 L 633 112" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 401 112 L 633 112" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="12px">
+            <text x="516.5" y="103.5">
+                QuarantineBatch
+            </text>
+        </g>
+        <rect x="401" y="112" width="232" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-405-117-224-26-0)" font-size="12px">
+            <text x="406.5" y="129.5">
+                QuarantineBatch *Next;
+            </text>
+        </g>
+        <rect x="401" y="138" width="232" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-405-143-224-26-0)" font-size="12px">
+            <text x="406.5" y="155.5">
+                uptr Size
+            </text>
+        </g>
+        <rect x="401" y="164" width="232" height="26" fill="#a0522d" stroke="#6d1f00" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-405-169-224-26-0)" font-size="12px">
+            <text x="406.5" y="181.5">
+                void *Batch[MaxCount];
+            </text>
+        </g>
+        <path d="M 401 194 L 633 194" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="401" y="198" width="232" height="33" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe flex-start; width: 230px; height: 1px; padding-top: 205px; margin-left: 403px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #67AB9F; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                void merge(QuarantineBatch *From)
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="403" y="217" fill="#67AB9F" font-family="Helvetica" font-size="12px">
+                    void merge(QuarantineBatch *From)
+                </text>
+            </switch>
+        </g>
+        <path d="M 658.14 123 L 658.14 97 L 818.14 97 L 818.14 123" fill="#ffffff" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 658.14 123 L 658.14 149 L 818.14 149 L 818.14 123" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 658.14 123 L 818.14 123" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="12px">
+            <text x="737.64" y="114.5">
+                QuarantineBatch
+            </text>
+        </g>
+        <path d="M 844.14 123 L 844.14 97 L 1004.14 97 L 1004.14 123" fill="#ffffff" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 844.14 123 L 844.14 149 L 1004.14 149 L 1004.14 123" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 844.14 123 L 1004.14 123" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" font-weight="bold" text-anchor="middle" font-size="12px">
+            <text x="923.64" y="114.5">
+                QuarantineBatch
+            </text>
+        </g>
+        <path d="M 163 496 L 49 496 L 49 106.6 L 86.79 106.61" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 92.04 106.62 L 85.04 110.11 L 86.79 106.61 L 85.04 103.11 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 156px; height: 1px; padding-top: 370px; margin-left: 1px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; max-height: 16px; overflow: hidden; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #67AB9F; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                Global QuarantineCache 
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="79" y="374" fill="#67AB9F" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Global QuarantineCache 
+                </text>
+            </switch>
+        </g>
+        <path d="M 95 26 L 95 0 L 358 0 L 358 26" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 95 26 L 95 52 L 358 52 L 358 26" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 95 26 L 358 26" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="226" y="17.5">
+                TSD
+            </text>
+        </g>
+        <rect x="95" y="26" width="263" height="26" fill="none" stroke="#7ea6e0" pointer-events="none"/>
+        <g fill="#67AB9F" font-family="Helvetica" clip-path="url(#mx-clip-99-31-255-26-0)" font-size="12px">
+            <text x="100.5" y="43.5">
+                QuarantineCacheT QuarantineCache
+            </text>
+        </g>
+        <path d="M 95 39 L 48.4 39 L 48.43 102.63" fill="none" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 48.43 107.88 L 44.93 100.88 L 48.43 102.63 L 51.93 100.88 Z" fill="#7ea6e0" stroke="#7ea6e0" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 156px; height: 1px; padding-top: 76px; margin-left: 21px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; max-height: 16px; overflow: hidden; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #67AB9F; line-height: 1.2; pointer-events: none; white-space: normal; word-wrap: normal; ">
+                                TSD QuarantineCache 
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="99" y="80" fill="#67AB9F" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    TSD QuarantineCache 
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

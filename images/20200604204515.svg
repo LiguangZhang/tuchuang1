@@ -1,0 +1,2375 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2103px" height="2216px" viewBox="-0.5 -0.5 2103 2216" content="&lt;mxfile host=&quot;&quot; modified=&quot;2020-06-04T12:44:48.169Z&quot; agent=&quot;5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.44.2 Chrome/78.0.3904.130 Electron/7.1.11 Safari/537.36&quot; etag=&quot;8LWVmKDU5ZILkoJiOI6S&quot; version=&quot;13.1.3&quot;&gt;&lt;diagram id=&quot;6hGFLwfOUW9BJ-s0fimq&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs>
+        <clipPath id="mx-clip-1205-1023-292-40-0">
+            <rect x="1205" y="1023" width="292" height="40"/>
+        </clipPath>
+        <clipPath id="mx-clip-615-1295-212-26-0">
+            <rect x="615" y="1295" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1365-292-26-0">
+            <rect x="15" y="1365" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1231-292-26-0">
+            <rect x="265" y="1231" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1257-292-26-0">
+            <rect x="265" y="1257" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1283-292-26-0">
+            <rect x="265" y="1283" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1317-292-26-0">
+            <rect x="265" y="1317" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1343-292-26-0">
+            <rect x="265" y="1343" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1369-292-26-0">
+            <rect x="265" y="1369" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1395-292-26-0">
+            <rect x="265" y="1395" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1421-292-26-0">
+            <rect x="265" y="1421" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1447-292-26-0">
+            <rect x="265" y="1447" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-265-1473-292-26-0">
+            <rect x="265" y="1473" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1171-262-26-0">
+            <rect x="865" y="1171" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1197-262-26-0">
+            <rect x="865" y="1197" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1223-262-42-0">
+            <rect x="865" y="1223" width="262" height="42"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1265-262-26-0">
+            <rect x="865" y="1265" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1291-262-26-0">
+            <rect x="865" y="1291" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1317-262-26-0">
+            <rect x="865" y="1317" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1343-262-26-0">
+            <rect x="865" y="1343" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1377-262-26-0">
+            <rect x="865" y="1377" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1403-262-26-0">
+            <rect x="865" y="1403" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1429-262-26-0">
+            <rect x="865" y="1429" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1455-262-26-0">
+            <rect x="865" y="1455" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-865-1481-262-26-0">
+            <rect x="865" y="1481" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-31-222-26-0">
+            <rect x="585" y="31" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-57-222-26-0">
+            <rect x="585" y="57" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-83-222-26-0">
+            <rect x="585" y="83" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-109-222-26-0">
+            <rect x="585" y="109" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-135-222-26-0">
+            <rect x="585" y="135" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-161-222-26-0">
+            <rect x="585" y="161" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-195-222-26-0">
+            <rect x="585" y="195" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-221-222-26-0">
+            <rect x="585" y="221" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-247-222-26-0">
+            <rect x="585" y="247" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-273-222-26-0">
+            <rect x="585" y="273" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-299-222-26-0">
+            <rect x="585" y="299" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-325-222-26-0">
+            <rect x="585" y="325" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-351-222-26-0">
+            <rect x="585" y="351" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-585-377-222-26-0">
+            <rect x="585" y="377" width="222" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-735-511-132-26-0">
+            <rect x="735" y="511" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-735-537-132-38-0">
+            <rect x="735" y="537" width="132" height="38"/>
+        </clipPath>
+        <clipPath id="mx-clip-735-583-132-26-0">
+            <rect x="735" y="583" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-735-609-132-26-0">
+            <rect x="735" y="609" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-735-635-132-26-0">
+            <rect x="735" y="635" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-735-661-132-26-0">
+            <rect x="735" y="661" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-735-687-132-26-0">
+            <rect x="735" y="687" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-735-713-132-26-0">
+            <rect x="735" y="713" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-685-866-132-26-0">
+            <rect x="685" y="866" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-925-584-132-26-0">
+            <rect x="925" y="584" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-925-610-132-26-0">
+            <rect x="925" y="610" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-925-636-132-26-0">
+            <rect x="925" y="636" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-925-670-132-26-0">
+            <rect x="925" y="670" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-925-696-132-26-0">
+            <rect x="925" y="696" width="132" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1125-514-142-26-0">
+            <rect x="1125" y="514" width="142" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1125-548-142-26-0">
+            <rect x="1125" y="548" width="142" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1125-574-142-26-0">
+            <rect x="1125" y="574" width="142" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1125-600-142-26-0">
+            <rect x="1125" y="600" width="142" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-485-841-182-26-0">
+            <rect x="485" y="841" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-485-867-182-26-0">
+            <rect x="485" y="867" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-485-893-182-26-0">
+            <rect x="485" y="893" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-485-927-182-26-0">
+            <rect x="485" y="927" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-485-953-182-26-0">
+            <rect x="485" y="953" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-485-979-182-26-0">
+            <rect x="485" y="979" width="182" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-395-521-152-26-0">
+            <rect x="395" y="521" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-395-555-152-26-0">
+            <rect x="395" y="555" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-395-581-152-26-0">
+            <rect x="395" y="581" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-395-607-152-26-0">
+            <rect x="395" y="607" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-395-633-152-26-0">
+            <rect x="395" y="633" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-395-659-152-26-0">
+            <rect x="395" y="659" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-395-685-152-26-0">
+            <rect x="395" y="685" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-561-252-26-0">
+            <rect x="1325" y="561" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-587-252-26-0">
+            <rect x="1325" y="587" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-613-252-26-0">
+            <rect x="1325" y="613" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-639-252-26-0">
+            <rect x="1325" y="639" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-665-252-26-0">
+            <rect x="1325" y="665" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-691-252-26-0">
+            <rect x="1325" y="691" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-725-252-26-0">
+            <rect x="1325" y="725" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-751-252-26-0">
+            <rect x="1325" y="751" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-777-252-26-0">
+            <rect x="1325" y="777" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-803-252-26-0">
+            <rect x="1325" y="803" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-829-252-26-0">
+            <rect x="1325" y="829" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-855-252-26-0">
+            <rect x="1325" y="855" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-881-252-26-0">
+            <rect x="1325" y="881" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-907-252-26-0">
+            <rect x="1325" y="907" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-933-252-26-0">
+            <rect x="1325" y="933" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1325-959-252-26-0">
+            <rect x="1325" y="959" width="252" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1345-401-212-26-0">
+            <rect x="1345" y="401" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1345-435-212-26-0">
+            <rect x="1345" y="435" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1345-461-212-26-0">
+            <rect x="1345" y="461" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1345-487-212-26-0">
+            <rect x="1345" y="487" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-461-282-26-0">
+            <rect x="1685" y="461" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-487-282-26-0">
+            <rect x="1685" y="487" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-513-282-26-0">
+            <rect x="1685" y="513" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-547-282-26-0">
+            <rect x="1685" y="547" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-573-282-26-0">
+            <rect x="1685" y="573" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-599-282-26-0">
+            <rect x="1685" y="599" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-625-282-26-0">
+            <rect x="1685" y="625" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-651-282-26-0">
+            <rect x="1685" y="651" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-677-282-26-0">
+            <rect x="1685" y="677" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-703-282-26-0">
+            <rect x="1685" y="703" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-729-282-26-0">
+            <rect x="1685" y="729" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-755-282-26-0">
+            <rect x="1685" y="755" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-781-282-26-0">
+            <rect x="1685" y="781" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1685-807-282-26-0">
+            <rect x="1685" y="807" width="282" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1695-939-142-26-0">
+            <rect x="1695" y="939" width="142" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1681-202-26-0">
+            <rect x="15" y="1681" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1707-202-26-0">
+            <rect x="15" y="1707" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1733-202-26-0">
+            <rect x="15" y="1733" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1759-202-26-0">
+            <rect x="15" y="1759" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1785-202-26-0">
+            <rect x="15" y="1785" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1811-202-26-0">
+            <rect x="15" y="1811" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1845-202-26-0">
+            <rect x="15" y="1845" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1871-202-26-0">
+            <rect x="15" y="1871" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1897-202-26-0">
+            <rect x="15" y="1897" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1923-202-26-0">
+            <rect x="15" y="1923" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-15-1949-202-26-0">
+            <rect x="15" y="1949" width="202" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1681-192-26-0">
+            <rect x="255" y="1681" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1707-192-26-0">
+            <rect x="255" y="1707" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1733-192-26-0">
+            <rect x="255" y="1733" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1759-192-26-0">
+            <rect x="255" y="1759" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1785-192-26-0">
+            <rect x="255" y="1785" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1819-192-26-0">
+            <rect x="255" y="1819" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1845-192-26-0">
+            <rect x="255" y="1845" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1871-192-26-0">
+            <rect x="255" y="1871" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1897-192-26-0">
+            <rect x="255" y="1897" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1923-192-26-0">
+            <rect x="255" y="1923" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-255-1949-192-26-0">
+            <rect x="255" y="1949" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-475-1681-192-26-0">
+            <rect x="475" y="1681" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-475-1707-192-26-0">
+            <rect x="475" y="1707" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-475-1733-192-26-0">
+            <rect x="475" y="1733" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-475-1759-192-26-0">
+            <rect x="475" y="1759" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-475-1793-192-26-0">
+            <rect x="475" y="1793" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-475-1819-192-26-0">
+            <rect x="475" y="1819" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-475-1845-192-26-0">
+            <rect x="475" y="1845" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-475-1871-192-26-0">
+            <rect x="475" y="1871" width="192" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1681-262-26-0">
+            <rect x="705" y="1681" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1707-262-26-0">
+            <rect x="705" y="1707" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1733-262-26-0">
+            <rect x="705" y="1733" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1759-262-26-0">
+            <rect x="705" y="1759" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1785-262-26-0">
+            <rect x="705" y="1785" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1811-262-26-0">
+            <rect x="705" y="1811" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1837-262-26-0">
+            <rect x="705" y="1837" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1863-262-26-0">
+            <rect x="705" y="1863" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1889-262-26-0">
+            <rect x="705" y="1889" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1923-262-26-0">
+            <rect x="705" y="1923" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1949-262-26-0">
+            <rect x="705" y="1949" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-1975-262-26-0">
+            <rect x="705" y="1975" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-2001-262-26-0">
+            <rect x="705" y="2001" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-2027-262-26-0">
+            <rect x="705" y="2027" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-2061-262-26-0">
+            <rect x="705" y="2061" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-2087-262-26-0">
+            <rect x="705" y="2087" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-2113-262-26-0">
+            <rect x="705" y="2113" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-2139-262-26-0">
+            <rect x="705" y="2139" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-2165-262-26-0">
+            <rect x="705" y="2165" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-705-2191-262-26-0">
+            <rect x="705" y="2191" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1681-212-26-0">
+            <rect x="1015" y="1681" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1707-212-26-0">
+            <rect x="1015" y="1707" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1733-212-26-0">
+            <rect x="1015" y="1733" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1759-212-26-0">
+            <rect x="1015" y="1759" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1785-212-26-0">
+            <rect x="1015" y="1785" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1811-212-26-0">
+            <rect x="1015" y="1811" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1837-212-26-0">
+            <rect x="1015" y="1837" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1863-212-26-0">
+            <rect x="1015" y="1863" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1889-212-26-0">
+            <rect x="1015" y="1889" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1923-212-26-0">
+            <rect x="1015" y="1923" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1949-212-26-0">
+            <rect x="1015" y="1949" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-1975-212-26-0">
+            <rect x="1015" y="1975" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-2001-212-26-0">
+            <rect x="1015" y="2001" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-2035-212-26-0">
+            <rect x="1015" y="2035" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-2061-212-26-0">
+            <rect x="1015" y="2061" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1015-2087-212-26-0">
+            <rect x="1015" y="2087" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1681-212-26-0">
+            <rect x="1295" y="1681" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1707-212-26-0">
+            <rect x="1295" y="1707" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1733-212-26-0">
+            <rect x="1295" y="1733" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1759-212-26-0">
+            <rect x="1295" y="1759" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1785-212-26-0">
+            <rect x="1295" y="1785" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1811-212-26-0">
+            <rect x="1295" y="1811" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1837-212-26-0">
+            <rect x="1295" y="1837" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1871-212-26-0">
+            <rect x="1295" y="1871" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1897-212-26-0">
+            <rect x="1295" y="1897" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1923-212-26-0">
+            <rect x="1295" y="1923" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1949-212-26-0">
+            <rect x="1295" y="1949" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-1975-212-26-0">
+            <rect x="1295" y="1975" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1295-2001-212-26-0">
+            <rect x="1295" y="2001" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1681-212-26-0">
+            <rect x="1555" y="1681" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1707-212-26-0">
+            <rect x="1555" y="1707" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1733-212-26-0">
+            <rect x="1555" y="1733" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1759-212-26-0">
+            <rect x="1555" y="1759" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1785-212-26-0">
+            <rect x="1555" y="1785" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1819-212-26-0">
+            <rect x="1555" y="1819" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1845-212-26-0">
+            <rect x="1555" y="1845" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1871-212-26-0">
+            <rect x="1555" y="1871" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1905-212-26-0">
+            <rect x="1555" y="1905" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1931-212-26-0">
+            <rect x="1555" y="1931" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1957-212-26-0">
+            <rect x="1555" y="1957" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-1991-212-26-0">
+            <rect x="1555" y="1991" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-2017-212-26-0">
+            <rect x="1555" y="2017" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-2043-212-26-0">
+            <rect x="1555" y="2043" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-2069-212-26-0">
+            <rect x="1555" y="2069" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1555-2095-212-26-0">
+            <rect x="1555" y="2095" width="212" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1681-262-26-0">
+            <rect x="1805" y="1681" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1707-262-26-0">
+            <rect x="1805" y="1707" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1733-262-26-0">
+            <rect x="1805" y="1733" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1759-262-26-0">
+            <rect x="1805" y="1759" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1785-262-26-0">
+            <rect x="1805" y="1785" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1819-262-26-0">
+            <rect x="1805" y="1819" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1845-262-26-0">
+            <rect x="1805" y="1845" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1871-262-26-0">
+            <rect x="1805" y="1871" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1897-262-26-0">
+            <rect x="1805" y="1897" width="262" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1805-1923-262-26-0">
+            <rect x="1805" y="1923" width="262" height="26"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 471 490 L 471 460 Q 471 450 481 450 L 639 450 Q 649 450 649.02 440 L 649.05 417.11" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 649.08 400.11 L 657.55 417.12 L 640.55 417.09 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 440px; margin-left: 560px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                Extends
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="560" y="443" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 762 826.99 L 762 796.99 Q 762 786.99 762.02 776.99 L 762.07 752.12" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 762.1 735.12 L 770.57 752.14 L 753.57 752.1 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 782px; margin-left: 752px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                Extends
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="752" y="785" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 952 826.99 L 830.56 789.92 Q 821 787 821 777 L 821 758.12" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 821 741.12 L 829.5 758.12 L 812.5 758.12 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 811px; margin-left: 865px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                Extends
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="865" y="814" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 771 480 L 771 460 Q 771 450 771.02 440 L 771.07 415.13" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 771.1 398.13 L 779.57 415.15 L 762.57 415.11 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 440px; margin-left: 761px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                Extends
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="761" y="443" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 1002 552.99 L 1002 522.99 Q 1002 512.99 993.21 508.22 L 805.99 406.64" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 791.05 398.53 L 810.05 399.17 L 801.94 414.11 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 476px; margin-left: 914px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                Extends
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="914" y="480" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 1161 482.99 L 1161 405 Q 1161 395 1151 395 L 829.12 395.01" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 812.12 395.01 L 829.12 386.51 L 829.12 403.51 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 405px; margin-left: 1039px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                Extends
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1039" y="408" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 601 810 L 681.51 783.16 Q 691 780 699.05 774.06 L 733.36 748.76" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 747.04 738.67 L 738.4 755.6 L 728.31 741.92 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 775px; margin-left: 673px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                Extends
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="673" y="779" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 562.11 13.93 Q 351 13.92 351 276.96 Q 351 540 383.49 540" fill="none" stroke="#2d7600" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 578.11 13.93 L 570.11 18.64 L 562.11 13.93 L 570.11 9.22 Z" fill="#2d7600" stroke="#2d7600" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 371.72 547 L 385.72 540 L 371.72 533" fill="none" stroke="#2d7600" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-end; justify-content: unsafe flex-start; width: 1px; height: 1px; padding-top: 14px; margin-left: 582px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: left; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                1
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="582" y="14" fill="#000000" font-family="Helvetica" font-size="11px">
+                    1
+                </text>
+            </switch>
+        </g>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 224px; margin-left: 351px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                view group manage all children view
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="351" y="228" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    view group manage all children view
+                </text>
+            </switch>
+        </g>
+        <path d="M 1341 404.5 Q 1101 970 966 1035 Q 831 1100 577.76 1206.92" fill="none" stroke="#005700" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 564.86 1212.36 L 575.04 1200.47 L 580.48 1213.36 Z" fill="#005700" stroke="#005700" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1149px; margin-left: 710px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                Use
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="710" y="1152" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Use
+                </text>
+            </switch>
+        </g>
+        <path d="M 261 1273.5 Q 201 1274 231 887 Q 261 500 426.54 490.26" fill="none" stroke="#2d7600" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 415.2 497.94 L 428.77 490.13 L 414.38 483.97" fill="none" stroke="#2d7600" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 832px; margin-left: 235px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; background-color: #ffffff; white-space: nowrap; ">
+                                Use
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="235" y="835" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Use
+                </text>
+            </switch>
+        </g>
+        <path d="M 1565.62 379.52 L 1621 379.93 Q 1631 380 1631 390 L 1631 480 Q 1631 490 1631 500 L 1631 611 Q 1631 621 1621 621 L 1608.97 621" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="stroke"/>
+        <path d="M 1582.97 621 L 1595.97 613.35 L 1608.97 621 L 1595.97 628.65 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 1691 915 L 1649.94 894.47 Q 1641 890 1639.16 880.17 L 1586.14 596.5" fill="none" stroke="#10739e" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="stroke"/>
+        <path d="M 1581.36 570.94 L 1591.27 582.31 L 1586.14 596.5 L 1576.23 585.12 Z" fill="#10739e" stroke="#10739e" stroke-width="2" stroke-miterlimit="10" pointer-events="all"/>
+        <rect x="1201" y="1018" width="300" height="40" fill="#008a00" stroke="#005700" pointer-events="all"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1205-1023-292-40-0)" font-size="12px">
+            <text x="1206.5" y="1035.5">
+                ui-&gt;onTouchEvent 
+            </text>
+            <text x="1206.5" y="1049.5">
+                  window-&gt;getViewRoot()-&gt;dispatchTouch(event);
+            </text>
+        </g>
+        <path d="M 1881 1571 L 1931 1571 L 1931 1550 L 1971 1585 L 1931 1620 L 1931 1599 L 1881 1599 L 1881 1585 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(270,1926,1585)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1585px; margin-left: 1926px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                <font color="#3333ff">
+                                    extends
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1926" y="1589" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 1 1520 L 2051 1520" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 301 1571 L 351 1571 L 351 1550 L 391 1585 L 351 1620 L 351 1599 L 301 1599 L 301 1585 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(270,346,1585)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1585px; margin-left: 346px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                <font color="#3333ff">
+                                    extends
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="346" y="1589" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 511 1571 L 561 1571 L 561 1550 L 601 1585 L 561 1620 L 561 1599 L 511 1599 L 511 1585 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(270,556,1585)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1585px; margin-left: 556px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                <font color="#3333ff">
+                                    extends
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="556" y="1589" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 1341 1571 L 1391 1571 L 1391 1550 L 1431 1585 L 1391 1620 L 1391 1599 L 1341 1599 L 1341 1585 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(270,1386,1585)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1585px; margin-left: 1386px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                <font color="#3333ff">
+                                    extends
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1386" y="1589" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 1601 1571 L 1651 1571 L 1651 1550 L 1691 1585 L 1651 1620 L 1651 1599 L 1601 1599 L 1601 1585 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(270,1646,1585)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1585px; margin-left: 1646px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                <font color="#3333ff">
+                                    extends
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1646" y="1589" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 41 1571 L 91 1571 L 91 1550 L 131 1585 L 91 1620 L 91 1599 L 41 1599 L 41 1585 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(270,86,1585)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1585px; margin-left: 86px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; white-space: nowrap; ">
+                                <font color="#3333ff">
+                                    extends
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="86" y="1589" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 611 1282 L 611 1242 L 831 1242 L 831 1282" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 611 1282 L 611 1316 L 831 1316 L 831 1282" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 611 1282 L 831 1282" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="720.5" y="1259.5">
+                &lt;&lt;Interface&gt;&gt;
+            </text>
+            <text x="720.5" y="1273.5">
+                ClickListener
+            </text>
+        </g>
+        <path d="M 611 1286 L 831 1286" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-615-1295-212-26-0)" font-size="12px">
+            <text x="616.5" y="1307.5">
+                onClick(GUIView* view)
+            </text>
+        </g>
+        <path d="M 1071 1571 L 1121 1571 L 1121 1550 L 1161 1585 L 1121 1620 L 1121 1599 L 1071 1599 L 1071 1585 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(270,1116,1585)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1585px; margin-left: 1116px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; ">
+                                <font color="#3333ff">
+                                    extends
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1116" y="1589" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 791 1571 L 841 1571 L 841 1550 L 881 1585 L 841 1620 L 841 1599 L 791 1599 L 791 1585 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" transform="rotate(270,836,1585)" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 1585px; margin-left: 836px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; white-space: nowrap; ">
+                                <font color="#3333ff">
+                                    extends
+                                </font>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="836" y="1589" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    extends
+                </text>
+            </switch>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1365-292-26-0)" font-size="12px">
+            <text x="16.5" y="1377.5">
+                Window::get()-&gt;setViewRoot(&amp;mViewRoot);
+            </text>
+        </g>
+        <path d="M 1321 863 L 566.6 644.52" fill="none" stroke="#c73500" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="none"/>
+        <path d="M 553.15 640.62 L 568.54 637.79 L 564.65 651.24 Z" fill="none" stroke="#c73500" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 660px; margin-left: 623px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; background-color: #ffffff; white-space: nowrap; ">
+                                mViewRoot-&gt;dispatchDraw
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="623" y="663" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    mViewRoot-&gt;dispatchDraw
+                </text>
+            </switch>
+        </g>
+        <path d="M 391 641 Q 251 440 567.32 237.75" fill="none" stroke="#c73500" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="none"/>
+        <path d="M 579.12 230.2 L 571.09 243.64 L 563.55 231.85 Z" fill="none" stroke="#c73500" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 268px; margin-left: 511px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; background-color: #ffffff; white-space: nowrap; ">
+                                mChildren-&gt;dispatchDraw
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="511" y="272" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    mChildren-&gt;dispatchDraw
+                </text>
+            </switch>
+        </g>
+        <path d="M 561 1455 Q 741 1340 891 1180 Q 1041 1020 1306.74 875.27" fill="none" stroke="#c73500" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="none"/>
+        <path d="M 1319.04 868.57 L 1310.09 881.41 L 1303.39 869.12 Z" fill="none" stroke="#c73500" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 977px; margin-left: 1087px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; background-color: #ffffff; white-space: nowrap; ">
+                                window-&gt;startDraw
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1087" y="980" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    window-&gt;startDraw
+                </text>
+            </switch>
+        </g>
+        <path d="M 261 1226 L 261 1200 L 561 1200 L 561 1226" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 261 1226 L 261 1494 L 561 1494 L 561 1226" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 261 1226 L 561 1226" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="410.5" y="1217.5">
+                page
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-265-1231-292-26-0)" font-size="12px">
+            <text x="266.5" y="1243.5">
+                Page* mPrePage;
+            </text>
+        </g>
+        <rect x="261" y="1252" width="300" height="26" fill="#60a917" stroke="#2d7600" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-265-1257-292-26-0)" font-size="12px">
+            <text x="266.5" y="1269.5">
+                GUIViewGroup mViewRoot;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-265-1283-292-26-0)" font-size="12px">
+            <text x="266.5" y="1295.5">
+                std::string mName;
+            </text>
+        </g>
+        <path d="M 261 1308 L 561 1308" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="261" y="1312" width="300" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-265-1317-292-26-0)" font-size="12px">
+            <text x="266.5" y="1329.5">
+                Page() 
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-265-1343-292-26-0)" font-size="12px">
+            <text x="266.5" y="1355.5">
+                setPrePage(Page* pre) 
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-265-1369-292-26-0)" font-size="12px">
+            <text x="266.5" y="1381.5">
+                setName(const char* name) 
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-265-1395-292-26-0)" font-size="12px">
+            <text x="266.5" y="1407.5">
+                Page* getPrePage(void) 
+            </text>
+        </g>
+        <rect x="261" y="1416" width="300" height="26" fill="#60a917" stroke="#2d7600" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-265-1421-292-26-0)" font-size="12px">
+            <text x="266.5" y="1433.5">
+                GUIViewGroup&amp; getViewRoot(void)
+            </text>
+        </g>
+        <rect x="261" y="1442" width="300" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-265-1447-292-26-0)" font-size="12px">
+            <text x="266.5" y="1459.5">
+                onPageStart(std::map&lt;std::string, std::string&gt; &amp;data);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-265-1473-292-26-0)" font-size="12px">
+            <text x="266.5" y="1485.5">
+                onPageBack(std::map&lt;std::string, std::string&gt; &amp;data);
+            </text>
+        </g>
+        <path d="M 861 1166 L 861 1140 L 1131 1140 L 1131 1166" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 861 1166 L 861 1502 L 1131 1502 L 1131 1166" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 861 1166 L 1131 1166" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="995.5" y="1157.5">
+                DefaultPageLayout
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1171-262-26-0)" font-size="12px">
+            <text x="866.5" y="1183.5">
+                GUIButton mMIUISecurityTitle;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1197-262-26-0)" font-size="12px">
+            <text x="866.5" y="1209.5">
+                GUIBattary mBattary;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1223-262-42-0)" font-size="12px">
+            <text x="866.5" y="1235.5">
+                int stitle_xoff, stitle_yoff;
+            </text>
+            <text x="866.5" y="1249.5">
+                int battary_xoff, battary_yoff;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1265-262-26-0)" font-size="12px">
+            <text x="866.5" y="1277.5">
+                PageTitle
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1291-262-26-0)" font-size="12px">
+            <text x="866.5" y="1303.5">
+                PageTitles
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1317-262-26-0)" font-size="12px">
+            <text x="866.5" y="1329.5">
+                PageHandler
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1343-262-26-0)" font-size="12px">
+            <text x="866.5" y="1355.5">
+                PageTitleHandlers
+            </text>
+        </g>
+        <path d="M 861 1368 L 1131 1368" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1377-262-26-0)" font-size="12px">
+            <text x="866.5" y="1389.5">
+                drawButton(PageTitle &amp;v);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1403-262-26-0)" font-size="12px">
+            <text x="866.5" y="1415.5">
+                drawPercent(PageTitle &amp;v);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1429-262-26-0)" font-size="12px">
+            <text x="866.5" y="1441.5">
+                drawSpeed(PageTitle &amp;v);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1455-262-26-0)" font-size="12px">
+            <text x="866.5" y="1467.5">
+                drawBattary(PageTitle &amp;v);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-865-1481-262-26-0)" font-size="12px">
+            <text x="866.5" y="1493.5">
+                defaultButtonConfig(...)
+            </text>
+        </g>
+        <path d="M 1572.8 508.59 Q 1791 760 1584.81 886.66" fill="none" stroke="#a50040" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="6 6" pointer-events="none"/>
+        <ellipse cx="1567.55" cy="502.55" rx="8" ry="8" fill="none" stroke="#a50040" stroke-width="2" pointer-events="none"/>
+        <path d="M 1562.31 496.51 L 1572.8 508.59 M 1573.6 497.31 L 1561.51 507.8" fill="none" stroke="#a50040" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1588.81 878.34 L 1582.91 887.83 L 1594.04 886.86" fill="none" stroke="#a50040" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 550.2 502.96 L 821.14 548.35 Q 831 550 840.96 550.91 L 1293.14 592.44" fill="none" stroke="#005700" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1319.04 594.82 L 1305.39 601.25 L 1293.14 592.44 L 1306.79 586.02 Z" fill="#005700" stroke="#005700" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 581 26 L 581 0 L 811 0 L 811 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 581 26 L 581 398 L 811 398 L 811 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 581 26 L 811 26" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="695.5" y="17.5">
+                GUIView
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-31-222-26-0)" font-size="12px">
+            <text x="586.5" y="43.5">
+                GUIView* mParent;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-57-222-26-0)" font-size="12px">
+            <text x="586.5" y="69.5">
+                GUIView* mToTopOf;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-83-222-26-0)" font-size="12px">
+            <text x="586.5" y="95.5">
+                GUIView* mToBottomOf;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-109-222-26-0)" font-size="12px">
+            <text x="586.5" y="121.5">
+                GUIView* mToLeftOf;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-135-222-26-0)" font-size="12px">
+            <text x="586.5" y="147.5">
+                GUIView* mToRightOf;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-161-222-26-0)" font-size="12px">
+            <text x="586.5" y="173.5">
+                ClickListener* mClickListener;
+            </text>
+        </g>
+        <path d="M 581 186 L 811 186" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="581" y="190" width="230" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-585-195-222-26-0)" font-size="12px">
+            <text x="586.5" y="207.5">
+                void onDraw(void);
+            </text>
+        </g>
+        <rect x="581" y="216" width="230" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-585-221-222-26-0)" font-size="12px">
+            <text x="586.5" y="233.5">
+                void dispatchDraw(void);
+            </text>
+        </g>
+        <rect x="581" y="242" width="230" height="26" fill="#647687" stroke="#314354" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-585-247-222-26-0)" font-size="12px">
+            <text x="586.5" y="259.5">
+                bool dispatchTouch(TouchEvent&amp; ev);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-273-222-26-0)" font-size="12px">
+            <text x="586.5" y="285.5">
+                onTouchEvent(TouchEvent&amp; ev);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-299-222-26-0)" font-size="12px">
+            <text x="586.5" y="311.5">
+                bool pointInView(int x, int y, int slop);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-325-222-26-0)" font-size="12px">
+            <text x="586.5" y="337.5">
+                setClickListener(ClickListener* listener)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-351-222-26-0)" font-size="12px">
+            <text x="586.5" y="363.5">
+                setTouchable(bool touchable)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-585-377-222-26-0)" font-size="12px">
+            <text x="586.5" y="389.5">
+                setBackgroundImage(const char* image)
+            </text>
+        </g>
+        <path d="M 731 506 L 731 480 L 871 480 L 871 506" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 731 506 L 731 734 L 871 734 L 871 506" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 731 506 L 871 506" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="800.5" y="497.5">
+                GUIText
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-735-511-132-26-0)" font-size="12px">
+            <text x="736.5" y="523.5">
+                bool visiable;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-735-537-132-38-0)" font-size="12px">
+            <text x="736.5" y="549.5">
+                 mClearText,
+            </text>
+            <text x="736.5" y="563.5">
+                 mTextColor;
+            </text>
+        </g>
+        <path d="M 731 574 L 871 574" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-735-583-132-26-0)" font-size="12px">
+            <text x="736.5" y="595.5">
+                onDraw(void)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-735-609-132-26-0)" font-size="12px">
+            <text x="736.5" y="621.5">
+                setText(const char* t)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-735-635-132-26-0)" font-size="12px">
+            <text x="736.5" y="647.5">
+                setTextColor(const char* c)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-735-661-132-26-0)" font-size="12px">
+            <text x="736.5" y="673.5">
+                setVisiable(bool visiable)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-735-687-132-26-0)" font-size="12px">
+            <text x="736.5" y="699.5">
+                getText(void)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-735-713-132-26-0)" font-size="12px">
+            <text x="736.5" y="725.5">
+                getTextColor
+            </text>
+        </g>
+        <path d="M 681 852.99 L 681 826.99 L 821 826.99 L 821 852.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 681 852.99 L 681 886.99 L 821 886.99 L 821 852.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 681 852.99 L 821 852.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="750.5" y="844.49">
+                GUIButton
+            </text>
+        </g>
+        <path d="M 681 856.99 L 821 856.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-685-866-132-26-0)" font-size="12px">
+            <text x="686.5" y="878.49">
+                onDraw(void)
+            </text>
+        </g>
+        <path d="M 871 852.99 L 871 826.99 L 1011 826.99 L 1011 852.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 871 852.99 L 871 860.99 L 1011 860.99 L 1011 852.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 871 852.99 L 1011 852.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="940.5" y="844.49">
+                GUIEdit
+            </text>
+        </g>
+        <path d="M 871 856.99 L 1011 856.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 921 578.99 L 921 552.99 L 1061 552.99 L 1061 578.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 921 578.99 L 921 716.99 L 1061 716.99 L 1061 578.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 921 578.99 L 1061 578.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="990.5" y="570.49">
+                GUIPercent
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-925-584-132-26-0)" font-size="12px">
+            <text x="926.5" y="596.49">
+                int data;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-925-610-132-26-0)" font-size="12px">
+            <text x="926.5" y="622.49">
+                init_digit_id
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-925-636-132-26-0)" font-size="12px">
+            <text x="926.5" y="648.49">
+                int init_symbol_id;
+            </text>
+        </g>
+        <path d="M 921 660.99 L 1061 660.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-925-670-132-26-0)" font-size="12px">
+            <text x="926.5" y="682.49">
+                onDraw(void)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-925-696-132-26-0)" font-size="12px">
+            <text x="926.5" y="708.49">
+                setData(int data)
+            </text>
+        </g>
+        <path d="M 1121 508.99 L 1121 482.99 L 1271 482.99 L 1271 508.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1121 508.99 L 1121 620.99 L 1271 620.99 L 1271 508.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1121 508.99 L 1271 508.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1195.5" y="500.49">
+                GUIBattary
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1125-514-142-26-0)" font-size="12px">
+            <text x="1126.5" y="526.49">
+                int cpc;
+            </text>
+        </g>
+        <path d="M 1121 538.99 L 1271 538.99" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1125-548-142-26-0)" font-size="12px">
+            <text x="1126.5" y="560.49">
+                setCapacity(int cpc)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1125-574-142-26-0)" font-size="12px">
+            <text x="1126.5" y="586.49">
+                getCapacity() { return cpc; }
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1125-600-142-26-0)" font-size="12px">
+            <text x="1126.5" y="612.49">
+                onDraw(void)
+            </text>
+        </g>
+        <path d="M 481 836 L 481 810 L 671 810 L 671 836" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 481 836 L 481 1000 L 671 1000 L 671 836" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 481 836 L 671 836" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="575.5" y="827.5">
+                GUISpeed
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-485-841-182-26-0)" font-size="12px">
+            <text x="486.5" y="853.5">
+                size_t bpsecond;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-485-867-182-26-0)" font-size="12px">
+            <text x="486.5" y="879.5">
+                int end_xoff;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-485-893-182-26-0)" font-size="12px">
+            <text x="486.5" y="905.5">
+                int end_yoff;
+            </text>
+        </g>
+        <path d="M 481 918 L 671 918" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-485-927-182-26-0)" font-size="12px">
+            <text x="486.5" y="939.5">
+                setBpSecond(size_t bpsecond)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-485-953-182-26-0)" font-size="12px">
+            <text x="486.5" y="965.5">
+                void setEndXOffset(int end_xoff)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-485-979-182-26-0)" font-size="12px">
+            <text x="486.5" y="991.5">
+                onDraw(void)
+            </text>
+        </g>
+        <path d="M 391 516 L 391 490 L 551 490 L 551 516" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 391 516 L 391 706 L 551 706 L 551 516" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 391 516 L 551 516" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="470.5" y="507.5">
+                GUIViewGroup
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-395-521-152-26-0)" font-size="12px">
+            <text x="396.5" y="533.5">
+                set&lt;GUIView*&gt; mChildren
+            </text>
+        </g>
+        <path d="M 391 546 L 551 546" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-395-555-152-26-0)" font-size="12px">
+            <text x="396.5" y="567.5">
+                + addView
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-395-581-152-26-0)" font-size="12px">
+            <text x="396.5" y="593.5">
+                + removeView
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-395-607-152-26-0)" font-size="12px">
+            <text x="396.5" y="619.5">
+                + removeViews
+            </text>
+        </g>
+        <rect x="391" y="628" width="160" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-395-633-152-26-0)" font-size="12px">
+            <text x="396.5" y="645.5">
+                + dispatchDraw
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-395-659-152-26-0)" font-size="12px">
+            <text x="396.5" y="671.5">
+                + dispatchTouch
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-395-685-152-26-0)" font-size="12px">
+            <text x="396.5" y="697.5">
+                + getChildrens
+            </text>
+        </g>
+        <path d="M 1321 556 L 1321 530 L 1581 530 L 1581 556" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1321 556 L 1321 980 L 1581 980 L 1581 556" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1321 556 L 1581 556" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1450.5" y="547.5">
+                Window
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-561-252-26-0)" font-size="12px">
+            <text x="1326.5" y="573.5">
+                UIHandler* mHandler;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-587-252-26-0)" font-size="12px">
+            <text x="1326.5" y="599.5">
+                GUIView* mViewRoot;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-613-252-26-0)" font-size="12px">
+            <text x="1326.5" y="625.5">
+                PageResolver *mPageResolver;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-639-252-26-0)" font-size="12px">
+            <text x="1326.5" y="651.5">
+                touch_event ev_touch;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-665-252-26-0)" font-size="12px">
+            <text x="1326.5" y="677.5">
+                Looper* mLooper;
+            </text>
+        </g>
+        <rect x="1321" y="686" width="260" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1325-691-252-26-0)" font-size="12px">
+            <text x="1326.5" y="703.5">
+                static Window* sSelf;
+            </text>
+        </g>
+        <path d="M 1321 716 L 1581 716" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-725-252-26-0)" font-size="12px">
+            <text x="1326.5" y="737.5">
+                init(void);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-751-252-26-0)" font-size="12px">
+            <text x="1326.5" y="763.5">
+                deInit(void);
+            </text>
+        </g>
+        <rect x="1321" y="772" width="260" height="26" fill="#60a917" stroke="#2d7600" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1325-777-252-26-0)" font-size="12px">
+            <text x="1326.5" y="789.5">
+                setViewRoot(GUIView* v)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-803-252-26-0)" font-size="12px">
+            <text x="1326.5" y="815.5">
+                getUILooper(void)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-829-252-26-0)" font-size="12px">
+            <text x="1326.5" y="841.5">
+                getPageResolver(void)
+            </text>
+        </g>
+        <rect x="1321" y="850" width="260" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1325-855-252-26-0)" font-size="12px">
+            <text x="1326.5" y="867.5">
+                startDraw(void)
+            </text>
+        </g>
+        <rect x="1321" y="876" width="260" height="26" fill="#d80073" stroke="#a50040" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1325-881-252-26-0)" font-size="12px">
+            <text x="1326.5" y="893.5">
+                startPage(Page* pre, Page* next);
+            </text>
+        </g>
+        <rect x="1321" y="902" width="260" height="26" fill="#d80073" stroke="#a50040" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1325-907-252-26-0)" font-size="12px">
+            <text x="1326.5" y="919.5">
+                startPage(Page* pre, Page* next, std::map data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1325-933-252-26-0)" font-size="12px">
+            <text x="1326.5" y="945.5">
+                backToPage(Page* cur);
+            </text>
+        </g>
+        <rect x="1321" y="954" width="260" height="26" fill="#647687" stroke="#314354" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1325-959-252-26-0)" font-size="12px">
+            <text x="1326.5" y="971.5">
+                handleInputEvent(int fd, struct input_event* ev);
+            </text>
+        </g>
+        <path d="M 1341 396 L 1341 370 L 1561 370 L 1561 396" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1341 396 L 1341 508 L 1561 508 L 1561 396" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1341 396 L 1561 396" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1450.5" y="387.5">
+                PageResolver
+            </text>
+        </g>
+        <rect x="1341" y="396" width="220" height="26" fill="#d80073" stroke="#a50040" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1345-401-212-26-0)" font-size="12px">
+            <text x="1346.5" y="413.5">
+                std::stack&lt;Page*&gt; mPageStack;
+            </text>
+        </g>
+        <path d="M 1341 426 L 1561 426" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <rect x="1341" y="430" width="220" height="26" fill="#76608a" stroke="#432d57" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1345-435-212-26-0)" font-size="12px">
+            <text x="1346.5" y="447.5">
+                Page* homePage(void)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1345-461-212-26-0)" font-size="12px">
+            <text x="1346.5" y="473.5">
+                void destroyTopPage();
+            </text>
+        </g>
+        <rect x="1341" y="482" width="220" height="26" fill="#d80073" stroke="#a50040" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1345-487-212-26-0)" font-size="12px">
+            <text x="1346.5" y="499.5">
+                void pushPage(Page *page);
+            </text>
+        </g>
+        <path d="M 1681 456 L 1681 430 L 1971 430 L 1971 456" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1681 456 L 1681 828 L 1971 828 L 1971 456" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1681 456 L 1971 456" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1825.5" y="447.5">
+                Handler
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-461-282-26-0)" font-size="12px">
+            <text x="1686.5" y="473.5">
+                std::string mName;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-487-282-26-0)" font-size="12px">
+            <text x="1686.5" y="499.5">
+                Looper* mLooper;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-513-282-26-0)" font-size="12px">
+            <text x="1686.5" y="525.5">
+                MessageQueue* mQueue;
+            </text>
+        </g>
+        <path d="M 1681 538 L 1971 538" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-547-282-26-0)" font-size="12px">
+            <text x="1686.5" y="559.5">
+                sendMessage(Message&amp; msg)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-573-282-26-0)" font-size="12px">
+            <text x="1686.5" y="585.5">
+                sendMessageDelayed(Message&amp; msg, delayMillis)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-599-282-26-0)" font-size="12px">
+            <text x="1686.5" y="611.5">
+                sendMessageAtTime(Message&amp; msg,  uptime)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-625-282-26-0)" font-size="12px">
+            <text x="1686.5" y="637.5">
+                sendEmptyMessage(int what)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-651-282-26-0)" font-size="12px">
+            <text x="1686.5" y="663.5">
+                post(Message::Function f)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-677-282-26-0)" font-size="12px">
+            <text x="1686.5" y="689.5">
+                postDelayed(Message::Function f, long delayMillis)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-703-282-26-0)" font-size="12px">
+            <text x="1686.5" y="715.5">
+                postAtTime(Message::Function f, uptime)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-729-282-26-0)" font-size="12px">
+            <text x="1686.5" y="741.5">
+                Message obtainMessage();
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-755-282-26-0)" font-size="12px">
+            <text x="1686.5" y="767.5">
+                Message obtainMessage(int what, int arg1);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1685-781-282-26-0)" font-size="12px">
+            <text x="1686.5" y="793.5">
+                removeMessages(int what);
+            </text>
+        </g>
+        <rect x="1681" y="802" width="290" height="26" fill="#647687" stroke="#314354" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1685-807-282-26-0)" font-size="12px">
+            <text x="1686.5" y="819.5">
+                bool handleMessage(Message&amp; msg);
+            </text>
+        </g>
+        <path d="M 1780.4 898.32 L 1780.84 870 Q 1781 860 1781 853.06 L 1781 846.13" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1781 829.13 L 1789.5 846.13 L 1772.5 846.13 Z" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 865px; margin-left: 1771px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: none; background-color: #ffffff; white-space: nowrap; ">
+                                Extends
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1771" y="868" fill="#000000" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    Extends
+                </text>
+            </switch>
+        </g>
+        <path d="M 1691 926 L 1691 900 L 1841 900 L 1841 926" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1691 926 L 1691 960 L 1841 960 L 1841 926" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1691 926 L 1841 926" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1765.5" y="917.5">
+                UIHandler
+            </text>
+        </g>
+        <path d="M 1691 930 L 1841 930" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1695-939-142-26-0)" font-size="12px">
+            <text x="1696.5" y="951.5">
+                bool handleMessage(Message&amp; msg)
+            </text>
+        </g>
+        <path d="M 1 1100 L 2101 1100" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 11 1676 L 11 1650 L 221 1650 L 221 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 11 1676 L 11 1970 L 221 1970 L 221 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 11 1676 L 221 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="115.5" y="1667.5">
+                InitializationPage
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1681-202-26-0)" font-size="12px">
+            <text x="16.5" y="1693.5">
+                GUIButton mStartToUse;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1707-202-26-0)" font-size="12px">
+            <text x="16.5" y="1719.5">
+                GUIButton mExit;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1733-202-26-0)" font-size="12px">
+            <text x="16.5" y="1745.5">
+                GUIButton mClock;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1759-202-26-0)" font-size="12px">
+            <text x="16.5" y="1771.5">
+                GUIButton mExpanlation;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1785-202-26-0)" font-size="12px">
+            <text x="16.5" y="1797.5">
+                GUIButton mName;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1811-202-26-0)" font-size="12px">
+            <text x="16.5" y="1823.5">
+                GUIText mVersion;
+            </text>
+        </g>
+        <path d="M 11 1836 L 221 1836" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1845-202-26-0)" font-size="12px">
+            <text x="16.5" y="1857.5">
+                InitializationPage(Looper* looper);
+            </text>
+        </g>
+        <rect x="11" y="1866" width="210" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-15-1871-202-26-0)" font-size="12px">
+            <text x="16.5" y="1883.5">
+                onPageStart(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1897-202-26-0)" font-size="12px">
+            <text x="16.5" y="1909.5">
+                handleMessage(Message&amp; msg)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1923-202-26-0)" font-size="12px">
+            <text x="16.5" y="1935.5">
+                onClick(GUIView* view)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-15-1949-202-26-0)" font-size="12px">
+            <text x="16.5" y="1961.5">
+                initVersionGUI();
+            </text>
+        </g>
+        <path d="M 251 1676 L 251 1650 L 451 1650 L 451 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 251 1676 L 251 1970 L 451 1970 L 451 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 251 1676 L 451 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="350.5" y="1667.5">
+                MainMenuPage
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1681-192-26-0)" font-size="12px">
+            <text x="256.5" y="1693.5">
+                GUIButton mConnectWifi
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1707-192-26-0)" font-size="12px">
+            <text x="256.5" y="1719.5">
+                GUIButton mEraseData;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1733-192-26-0)" font-size="12px">
+            <text x="256.5" y="1745.5">
+                GUIButton mReboot;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1759-192-26-0)" font-size="12px">
+            <text x="256.5" y="1771.5">
+                GUIButton mClock;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1785-192-26-0)" font-size="12px">
+            <text x="256.5" y="1797.5">
+                GUIButton mName;
+            </text>
+        </g>
+        <path d="M 251 1810 L 451 1810" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1819-192-26-0)" font-size="12px">
+            <text x="256.5" y="1831.5">
+                MainMenuPage(Looper* looper);
+            </text>
+        </g>
+        <rect x="251" y="1840" width="200" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-255-1845-192-26-0)" font-size="12px">
+            <text x="256.5" y="1857.5">
+                onPageStart(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1871-192-26-0)" font-size="12px">
+            <text x="256.5" y="1883.5">
+                setName(const char* name) 
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1897-192-26-0)" font-size="12px">
+            <text x="256.5" y="1909.5">
+                onPageBack(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1923-192-26-0)" font-size="12px">
+            <text x="256.5" y="1935.5">
+                handleMessage(Message&amp; msg)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-255-1949-192-26-0)" font-size="12px">
+            <text x="256.5" y="1961.5">
+                onClick(GUIView* view)
+            </text>
+        </g>
+        <path d="M 471 1676 L 471 1650 L 671 1650 L 671 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 471 1676 L 471 1892 L 671 1892 L 671 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 471 1676 L 671 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="570.5" y="1667.5">
+                WifiDisabledPage
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-475-1681-192-26-0)" font-size="12px">
+            <text x="476.5" y="1693.5">
+                GUIButton mClock;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-475-1707-192-26-0)" font-size="12px">
+            <text x="476.5" y="1719.5">
+                GUIButton mTitle;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-475-1733-192-26-0)" font-size="12px">
+            <text x="476.5" y="1745.5">
+                GUIButton mSubTitle;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-475-1759-192-26-0)" font-size="12px">
+            <text x="476.5" y="1771.5">
+                GUIButton mBack;
+            </text>
+        </g>
+        <path d="M 471 1784 L 671 1784" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-475-1793-192-26-0)" font-size="12px">
+            <text x="476.5" y="1805.5">
+                WifiDisabledPage(Looper* looper)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-475-1819-192-26-0)" font-size="12px">
+            <text x="476.5" y="1831.5">
+                onPageBack(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-475-1845-192-26-0)" font-size="12px">
+            <text x="476.5" y="1857.5">
+                handleMessage(Message&amp; msg)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-475-1871-192-26-0)" font-size="12px">
+            <text x="476.5" y="1883.5">
+                onClick(GUIView* view)
+            </text>
+        </g>
+        <path d="M 701 1676 L 701 1650 L 971 1650 L 971 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 701 1676 L 701 2212 L 971 2212 L 971 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 701 1676 L 971 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="835.5" y="1667.5">
+                WifiScanPage
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1681-262-26-0)" font-size="12px">
+            <text x="706.5" y="1693.5">
+                GUIButton mWifiEnable;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1707-262-26-0)" font-size="12px">
+            <text x="706.5" y="1719.5">
+                GUIButton mPrePage;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1733-262-26-0)" font-size="12px">
+            <text x="706.5" y="1745.5">
+                GUIButton mNextPage;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1759-262-26-0)" font-size="12px">
+            <text x="706.5" y="1771.5">
+                GUIButton mPageTitle;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1785-262-26-0)" font-size="12px">
+            <text x="706.5" y="1797.5">
+                GUIButton mStartToDownload;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1811-262-26-0)" font-size="12px">
+            <text x="706.5" y="1823.5">
+                GUIButton mBackToMainMenu;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1837-262-26-0)" font-size="12px">
+            <text x="706.5" y="1849.5">
+                GUIView mLines[9];
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1863-262-26-0)" font-size="12px">
+            <text x="706.5" y="1875.5">
+                ApItem mApItems[8];
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1889-262-26-0)" font-size="12px">
+            <text x="706.5" y="1901.5">
+                GUIViewGroup mApList;
+            </text>
+        </g>
+        <path d="M 701 1914 L 971 1914" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1923-262-26-0)" font-size="12px">
+            <text x="706.5" y="1935.5">
+                WifiScanPage(Looper* looper);
+            </text>
+        </g>
+        <rect x="701" y="1944" width="270" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-705-1949-262-26-0)" font-size="12px">
+            <text x="706.5" y="1961.5">
+                onPageStart(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-1975-262-26-0)" font-size="12px">
+            <text x="706.5" y="1987.5">
+                onPageBack(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-2001-262-26-0)" font-size="12px">
+            <text x="706.5" y="2013.5">
+                handleMessage(Message&amp; msg)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-2027-262-26-0)" font-size="12px">
+            <text x="706.5" y="2039.5">
+                onClick(GUIView* view)
+            </text>
+        </g>
+        <path d="M 701 2052 L 971 2052" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-2061-262-26-0)" font-size="12px">
+            <text x="706.5" y="2073.5">
+                updateEnableButton(void);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-2087-262-26-0)" font-size="12px">
+            <text x="706.5" y="2099.5">
+                updateApList(int nextIndex);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-2113-262-26-0)" font-size="12px">
+            <text x="706.5" y="2125.5">
+                handleWifiStateChange(int oldState, int newState)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-2139-262-26-0)" font-size="12px">
+            <text x="706.5" y="2151.5">
+                updatePreNextButton(void);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-2165-262-26-0)" font-size="12px">
+            <text x="706.5" y="2177.5">
+                handleNetworkStateChange(NetworkInfo&amp; ni);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-705-2191-262-26-0)" font-size="12px">
+            <text x="706.5" y="2203.5">
+                handleScanResultsAvailable(void);
+            </text>
+        </g>
+        <path d="M 1011 1676 L 1011 1650 L 1231 1650 L 1231 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1011 1676 L 1011 2108 L 1231 2108 L 1231 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1011 1676 L 1231 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1120.5" y="1667.5">
+                WifiConnectPage
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1681-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1693.5">
+                GUIText mSsidText;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1707-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1719.5">
+                GUIButton mInputBack;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1733-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1745.5">
+                GUIButton mDefaultInputHint;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1759-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1771.5">
+                GUIButton mPwdVisSwh;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1785-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1797.5">
+                GUIText mPskText;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1811-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1823.5">
+                GUIText mVersion;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1837-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1849.5">
+                GUIButton mSubmit;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1863-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1875.5">
+                GUIButton mCancel;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1889-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1901.5">
+                WifiKeyGroup G;
+            </text>
+        </g>
+        <path d="M 1011 1914 L 1231 1914" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1923-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1935.5">
+                WifiConnectPage(Looper* looper)
+            </text>
+        </g>
+        <rect x="1011" y="1944" width="220" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1015-1949-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1961.5">
+                onPageStart(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-1975-212-26-0)" font-size="12px">
+            <text x="1016.5" y="1987.5">
+                handleMessage(Message&amp; msg)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-2001-212-26-0)" font-size="12px">
+            <text x="1016.5" y="2013.5">
+                onClick(GUIView* view)
+            </text>
+        </g>
+        <path d="M 1011 2026 L 1231 2026" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-2035-212-26-0)" font-size="12px">
+            <text x="1016.5" y="2047.5">
+                void onInputComplete(void);
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-2061-212-26-0)" font-size="12px">
+            <text x="1016.5" y="2073.5">
+                void onSubmit();
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1015-2087-212-26-0)" font-size="12px">
+            <text x="1016.5" y="2099.5">
+                void onCancel();
+            </text>
+        </g>
+        <path d="M 1291 1676 L 1291 1650 L 1511 1650 L 1511 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1291 1676 L 1291 2022 L 1511 2022 L 1511 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1291 1676 L 1511 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1400.5" y="1667.5">
+                DownloadingPage
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1681-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1693.5">
+                GUIButton mDownload;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1707-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1719.5">
+                GUIButton mBackToWifiScanPage;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1733-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1745.5">
+                GUIButton mDirectInstall;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1759-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1771.5">
+                GUIButton mTitle;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1785-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1797.5">
+                GUIButton mExplanation;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1811-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1823.5">
+                GUIPercent mPercent;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1837-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1849.5">
+                GUISpeed mSpeed;
+            </text>
+        </g>
+        <path d="M 1291 1862 L 1511 1862" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1871-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1883.5">
+                DownloadingPage(Looper* looper)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1897-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1909.5">
+                onPageBack(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1923-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1935.5">
+                handleMessage(Message&amp; msg)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1949-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1961.5">
+                onClick(GUIView* view)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-1975-212-26-0)" font-size="12px">
+            <text x="1296.5" y="1987.5">
+                handleCommandFromChild();
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1295-2001-212-26-0)" font-size="12px">
+            <text x="1296.5" y="2013.5">
+                startDhcpcd();
+            </text>
+        </g>
+        <path d="M 1551 1676 L 1551 1650 L 1771 1650 L 1771 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1551 1676 L 1551 2116 L 1771 2116 L 1771 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1551 1676 L 1771 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1660.5" y="1667.5">
+                ErasingData&lt;Pre/In/Fin&gt;Page
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1681-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1693.5">
+                GUIButton mConfirm;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1707-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1719.5">
+                GUIButton mBack;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1733-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1745.5">
+                GUIButton mClock;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1759-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1771.5">
+                GUIButton mName;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1785-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1797.5">
+                GUIButton mExpanlation;
+            </text>
+        </g>
+        <path d="M 1551 1810 L 1771 1810" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1819-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1831.5">
+                GUIButton mName;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1845-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1857.5">
+                GUIButton mExpanlation;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1871-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1883.5">
+                GUIPercent mPercent;
+            </text>
+        </g>
+        <path d="M 1551 1896 L 1771 1896" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1905-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1917.5">
+                GUIButton mName;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1931-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1943.5">
+                GUIButton mClock;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1957-212-26-0)" font-size="12px">
+            <text x="1556.5" y="1969.5">
+                GUIButton mBackToMainMenu;
+            </text>
+        </g>
+        <path d="M 1551 1982 L 1771 1982" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-1991-212-26-0)" font-size="12px">
+            <text x="1556.5" y="2003.5">
+                ErasingDataFinPage(Looper* looper);
+            </text>
+        </g>
+        <rect x="1551" y="2012" width="220" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1555-2017-212-26-0)" font-size="12px">
+            <text x="1556.5" y="2029.5">
+                onPageStart(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-2043-212-26-0)" font-size="12px">
+            <text x="1556.5" y="2055.5">
+                onPageBack(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-2069-212-26-0)" font-size="12px">
+            <text x="1556.5" y="2081.5">
+                handleMessage(Message&amp; msg)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1555-2095-212-26-0)" font-size="12px">
+            <text x="1556.5" y="2107.5">
+                onClick(GUIView* view)
+            </text>
+        </g>
+        <path d="M 1801 1676 L 1801 1650 L 2071 1650 L 2071 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1801 1676 L 1801 1944 L 2071 1944 L 2071 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1801 1676 L 2071 1676" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" text-anchor="middle" font-size="12px">
+            <text x="1935.5" y="1667.5">
+                InstallPkgPage
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1805-1681-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1693.5">
+                GUIButton mConnectWifi
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1805-1707-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1719.5">
+                GUIButton mEraseData;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1805-1733-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1745.5">
+                GUIButton mReboot;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1805-1759-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1771.5">
+                GUIButton mClock;
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1805-1785-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1797.5">
+                GUIButton mName;
+            </text>
+        </g>
+        <path d="M 1801 1810 L 2071 1810" fill="none" stroke="#000000" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1805-1819-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1831.5">
+                InstallPkgPage(Looper* looper)
+            </text>
+        </g>
+        <rect x="1801" y="1840" width="270" height="26" fill="#fa6800" stroke="#c73500" pointer-events="none"/>
+        <g fill="#ffffff" font-family="Helvetica" clip-path="url(#mx-clip-1805-1845-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1857.5">
+                onPageStart(std::map  &amp;data)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1805-1871-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1883.5">
+                startInstallPackage(std::string path, std::string verification)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1805-1897-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1909.5">
+                handleMessage(Message&amp; msg)
+            </text>
+        </g>
+        <g fill="#000000" font-family="Helvetica" clip-path="url(#mx-clip-1805-1923-262-26-0)" font-size="12px">
+            <text x="1806.5" y="1935.5">
+                onClick(GUIView* view)
+            </text>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://desk.draw.io/support/solutions/articles/16000042487" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>
